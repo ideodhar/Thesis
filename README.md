@@ -1,5 +1,3 @@
-Thank you for providing the screenshot to clarify your repository structure. Here's an updated README description tailored to your GitHub repository:
-
 ---
 
 # Assessing the Poverty Alleviating Effects of MSMEs in India
