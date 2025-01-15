@@ -1,61 +1,64 @@
 ---
-
 # Assessing the Poverty Alleviating Effects of MSMEs in India
 
-This repository contains the materials, scripts, and outputs for my undergraduate thesis, which investigates the relationship between Micro, Small, and Medium Enterprises (MSMEs) and poverty alleviation in India. Through rigorous analysis, the research aims to quantify the socioeconomic impact of MSME growth on reducing poverty across states.
+This repository contains the scripts, data, and documentation for my undergraduate thesis, which investigates the role of Micro, Small, and Medium Enterprises (MSMEs) in alleviating poverty across Indian states. The research employs econometric methods to analyze the relationship between MSME growth and poverty reduction.
 
 ## Repository Structure
 
 - **R Scripts**:
-  - `asi_clean.R`: Data cleaning and preparation for Annual Survey of Industries (ASI) data.
-  - `asi_heat.R`, `heatmap.R`: Scripts for generating heatmaps visualizing MSME and poverty data.
-  - `msme_count.R`, `poverty_calc.R`: R scripts for MSME and poverty analysis.
-  - `results.R`: Econometric modeling script.
+  - `asi_clean.R`: Prepares and cleans data from the Annual Survey of Industries (ASI).
+  - `asi_heat.R`, `heatmap.R`: Generate heatmaps to visualize MSME and poverty metrics.
+  - `msme_count.R`, `poverty_calc.R`: R scripts for MSME and poverty computation.
+  -  `results.R`: Econometric models.
 - **LaTeX Files**:
-  - `dissertation_bsc.tex`, `sl_bsc_thesis.tex`: Thesis documentation in LaTeX format.
-  - `ref.bib`: Bibliography file for references.
+  - `sl_bsc_thesis.tex`: LaTeX file for for thesis slideshow.
+  - `ref.bib`: Bibliography file for citations.
 - **Data Files**:
-  - `finance_sheet.txt`, `key_sheet.txt`: Processed data files used in the analysis.
+  - `asi_msme_data_f.csv`: # of MSMEs from ASI.
+  - `controls.txt`, `demography_controls.csv`: Contains data on control variables.
+  - `poverty_state.csv`, `state_mpce.csv`: Data on state-level poverty metrics.
 - **Outputs**:
-  - `msme_plot.pdf`, `poverty_plot.pdf`: Visualizations generated from the analysis.
+  - `msme_plot.pdf`, `poverty_plot.pdf`: Poverty and MSME heatmaps.
+- **README.md**: Overview of the repository.
 
 ## Key Highlights
 
-- **Research Focus**: 
-  - Explores the role of MSMEs in poverty reduction with a focus on state-level variations.
-  - Differentiates the impacts of Micro, Small, and Medium enterprises.
+- **Focus**: Analyzes the impact of MSMEs on poverty alleviation, with an emphasis on differences between Micro, Small, and Medium enterprises.
 - **Datasets Used**:
-  - Annual Survey of Industries (ASI) for MSME counts.
-  - CMIE’s CPHS data for poverty estimates.
+  - ASI data for MSME statistics.
+  - CMIE’s CPHS data for poverty headcount calculations.
+  - States of India for Controls.
+  - Census tech. projection for demographic controls.
 - **Methodologies**:
-  - Econometric modeling using fixed-effects regression.
-  - Data visualizations to depict MSME growth and poverty trends.
+  - Fixed-effects regression models with diagnostic tests for robust analysis.
+  - White's Robust standard errors.
 
 ## Research Questions
 
-1. What is the effect of MSMEs on poverty headcount ratios in India?
-2. How do different enterprise categories (Micro, Small, Medium) influence this effect?
-3. Do grouped categories of MSMEs (e.g., Small-Medium vs. Micro-Small) show distinct patterns?
-
-## Tools & Technologies
-
-- **Languages**: R (for data analysis), LaTeX (for thesis documentation).
-- **Statistical Methods**: Fixed-effects models with robust standard errors, diagnostic tests for multicollinearity and heteroscedasticity.
+1. What is the impact of MSMEs on poverty headcount ratios in India?
+2. How do the effects vary across enterprise categories (Micro, Small, Medium)?
+3. Do grouped MSME categories (Small-Medium vs. Micro-Small) show distinct patterns?
 
 ## Results
 
-- MSMEs, particularly Small and Medium enterprises, have a significant poverty-alleviating effect.
-- Micro enterprises exhibit a more nuanced and less significant relationship with poverty.
+- MSMEs, particularly Small and Medium enterprises, significantly alleviate poverty.
+- Micro enterprises show a complex relationship, potentially due to limited resources and productivity.
+
+## Tools & Technologies
+
+- **R**: Data analysis and visualization.
+- **LaTeX**: Documentation and thesis formatting.
+- **Statistical Models**: Fixed-effects regression with robust standard errors.
 
 ## Future Scope
 
-- Extend analysis to include service-sector MSMEs.
-- Use multidimensional poverty metrics for a holistic assessment.
-- Study the link between MSME productivity, wages, and poverty reduction.
+- Inclusion of service-sector MSMEs in the analysis.
+- Use of multidimensional poverty indices for a broader perspective.
+- Investigating the role of MSME productivity and wages in poverty reduction.
 
 ## Acknowledgments
 
-This work was completed under the guidance of Dr. Balu Pawde at the Gokhale Institute of Politics and Economics. I am grateful for the resources and support provided throughout this research journey.
+This thesis was completed under the guidance of Dr. Balu Pawde at the Gokhale Institute of Politics and Economics. I am grateful for their support and mentorship throughout this research.
 
 ## License
 
