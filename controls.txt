@@ -1,0 +1,1632 @@
+-e INDICATOR CODE|INDICATOR DESCRIPTION|REGION ID|REGION NAME|REGION ADDITIONAL INFO|BB NUM|UNIT|FREQUENCY|DATE|VALUE
+9480|Gross area sown: Foodgrain|869|Andhra Pradesh||18918452|'000 hectares|A|31-03-2014|4122.8
+9480|Gross area sown: Foodgrain|869|Andhra Pradesh||18918452|'000 hectares|A|31-03-2015|3963.1
+9480|Gross area sown: Foodgrain|869|Andhra Pradesh||18918452|'000 hectares|A|31-03-2016|4136.0
+9480|Gross area sown: Foodgrain|869|Andhra Pradesh||18918452|'000 hectares|A|31-03-2017|3970.0
+9480|Gross area sown: Foodgrain|869|Andhra Pradesh||18918452|'000 hectares|A|31-03-2018|4144.0
+9480|Gross area sown: Foodgrain|869|Andhra Pradesh||18918452|'000 hectares|A|31-03-2019|4023.0
+9480|Gross area sown: Foodgrain|869|Andhra Pradesh||18918452|'000 hectares|A|31-03-2020|4089.1
+9480|Gross area sown: Foodgrain|869|Andhra Pradesh||18918452|'000 hectares|A|31-03-2021|4074.5
+9480|Gross area sown: Foodgrain|869|Andhra Pradesh||18918452|'000 hectares|A|31-03-2022|4010.0
+9480|Gross area sown: Foodgrain|870|Andhra Pradesh||29762|'000 hectares|A||
+9480|Gross area sown: Foodgrain|1064|Assam||33322695|'000 hectares|A||
+9480|Gross area sown: Foodgrain|511|Assam||25793|'000 hectares|A|31-03-2014|2659.9
+9480|Gross area sown: Foodgrain|511|Assam||25793|'000 hectares|A|31-03-2015|2700.5
+9480|Gross area sown: Foodgrain|511|Assam||25793|'000 hectares|A|31-03-2016|2683.1
+9480|Gross area sown: Foodgrain|511|Assam||25793|'000 hectares|A|31-03-2017|2667.0
+9480|Gross area sown: Foodgrain|511|Assam||25793|'000 hectares|A|31-03-2018|2643.0
+9480|Gross area sown: Foodgrain|511|Assam||25793|'000 hectares|A|31-03-2019|2629.8
+9480|Gross area sown: Foodgrain|511|Assam||25793|'000 hectares|A|31-03-2020|2487.7
+9480|Gross area sown: Foodgrain|511|Assam||25793|'000 hectares|A|31-03-2021|2558.2
+9480|Gross area sown: Foodgrain|511|Assam||25793|'000 hectares|A|31-03-2022|2554.5
+9480|Gross area sown: Foodgrain|390|Bihar||24845|'000 hectares|A|31-03-2014|6396.0
+9480|Gross area sown: Foodgrain|390|Bihar||24845|'000 hectares|A|31-03-2015|6725.5
+9480|Gross area sown: Foodgrain|390|Bihar||24845|'000 hectares|A|31-03-2016|6571.0
+9480|Gross area sown: Foodgrain|390|Bihar||24845|'000 hectares|A|31-03-2017|6683.8
+9480|Gross area sown: Foodgrain|390|Bihar||24845|'000 hectares|A|31-03-2018|6586.5
+9480|Gross area sown: Foodgrain|390|Bihar||24845|'000 hectares|A|31-03-2019|6495.5
+9480|Gross area sown: Foodgrain|390|Bihar||24845|'000 hectares|A|31-03-2020|6183.1
+9480|Gross area sown: Foodgrain|390|Bihar||24845|'000 hectares|A|31-03-2021|6359.4
+9480|Gross area sown: Foodgrain|390|Bihar||24845|'000 hectares|A|31-03-2022|6443.8
+9480|Gross area sown: Foodgrain|391|Bihar||25109|'000 hectares|A||
+9480|Gross area sown: Foodgrain|389|Chandigarh||33019531|'000 hectares|A|31-03-2014|0.0
+9480|Gross area sown: Foodgrain|389|Chandigarh||33019531|'000 hectares|A|31-03-2015|0.0
+9480|Gross area sown: Foodgrain|389|Chandigarh||33019531|'000 hectares|A|31-03-2016|0.1
+9480|Gross area sown: Foodgrain|389|Chandigarh||33019531|'000 hectares|A|31-03-2017|0.1
+9480|Gross area sown: Foodgrain|389|Chandigarh||33019531|'000 hectares|A|31-03-2018|0.1
+9480|Gross area sown: Foodgrain|389|Chandigarh||33019531|'000 hectares|A|31-03-2019|0.1
+9480|Gross area sown: Foodgrain|389|Chandigarh||33019531|'000 hectares|A|31-03-2020|1.4
+9480|Gross area sown: Foodgrain|389|Chandigarh||33019531|'000 hectares|A|31-03-2021|0.6
+9480|Gross area sown: Foodgrain|389|Chandigarh||33019531|'000 hectares|A|31-03-2022|0.6
+9480|Gross area sown: Foodgrain|834|Chhattisgarh||29051|'000 hectares|A|31-03-2014|4989.4
+9480|Gross area sown: Foodgrain|834|Chhattisgarh||29051|'000 hectares|A|31-03-2015|5064.3
+9480|Gross area sown: Foodgrain|834|Chhattisgarh||29051|'000 hectares|A|31-03-2016|4989.0
+9480|Gross area sown: Foodgrain|834|Chhattisgarh||29051|'000 hectares|A|31-03-2017|5051.0
+9480|Gross area sown: Foodgrain|834|Chhattisgarh||29051|'000 hectares|A|31-03-2018|4885.0
+9480|Gross area sown: Foodgrain|834|Chhattisgarh||29051|'000 hectares|A|31-03-2019|4674.7
+9480|Gross area sown: Foodgrain|834|Chhattisgarh||29051|'000 hectares|A|31-03-2020|4735.5
+9480|Gross area sown: Foodgrain|834|Chhattisgarh||29051|'000 hectares|A|31-03-2021|4804.5
+9480|Gross area sown: Foodgrain|834|Chhattisgarh||29051|'000 hectares|A|31-03-2022|4760.9
+9480|Gross area sown: Foodgrain|771|Goa||28457|'000 hectares|A|31-03-2014|50.9
+9480|Gross area sown: Foodgrain|771|Goa||28457|'000 hectares|A|31-03-2015|50.5
+9480|Gross area sown: Foodgrain|771|Goa||28457|'000 hectares|A|31-03-2016|41.7
+9480|Gross area sown: Foodgrain|771|Goa||28457|'000 hectares|A|31-03-2017|46.7
+9480|Gross area sown: Foodgrain|771|Goa||28457|'000 hectares|A|31-03-2018|44.1
+9480|Gross area sown: Foodgrain|771|Goa||28457|'000 hectares|A|31-03-2019|42.6
+9480|Gross area sown: Foodgrain|771|Goa||28457|'000 hectares|A|31-03-2020|39.1
+9480|Gross area sown: Foodgrain|771|Goa||28457|'000 hectares|A|31-03-2021|36.5
+9480|Gross area sown: Foodgrain|771|Goa||28457|'000 hectares|A|31-03-2022|36.2
+9480|Gross area sown: Foodgrain|1060|Goa, Daman & Diu||31022|'000 hectares|A||
+9480|Gross area sown: Foodgrain|688|Gujarat||27920|'000 hectares|A|31-03-2014|4378.0
+9480|Gross area sown: Foodgrain|688|Gujarat||27920|'000 hectares|A|31-03-2015|3527.0
+9480|Gross area sown: Foodgrain|688|Gujarat||27920|'000 hectares|A|31-03-2016|3140.0
+9480|Gross area sown: Foodgrain|688|Gujarat||27920|'000 hectares|A|31-03-2017|3802.0
+9480|Gross area sown: Foodgrain|688|Gujarat||27920|'000 hectares|A|31-03-2018|3737.0
+9480|Gross area sown: Foodgrain|688|Gujarat||27920|'000 hectares|A|31-03-2019|3187.7
+9480|Gross area sown: Foodgrain|688|Gujarat||27920|'000 hectares|A|31-03-2020|3759.2
+9480|Gross area sown: Foodgrain|688|Gujarat||27920|'000 hectares|A|31-03-2021|4230.3
+9480|Gross area sown: Foodgrain|688|Gujarat||27920|'000 hectares|A|31-03-2022|4595.0
+9480|Gross area sown: Foodgrain|179|Haryana||23384|'000 hectares|A|31-03-2014|4403.6
+9480|Gross area sown: Foodgrain|179|Haryana||23384|'000 hectares|A|31-03-2015|4445.2
+9480|Gross area sown: Foodgrain|179|Haryana||23384|'000 hectares|A|31-03-2016|4484.6
+9480|Gross area sown: Foodgrain|179|Haryana||23384|'000 hectares|A|31-03-2017|4593.6
+9480|Gross area sown: Foodgrain|179|Haryana||23384|'000 hectares|A|31-03-2018|4458.2
+9480|Gross area sown: Foodgrain|179|Haryana||23384|'000 hectares|A|31-03-2019|4557.9
+9480|Gross area sown: Foodgrain|179|Haryana||23384|'000 hectares|A|31-03-2020|4591.4
+9480|Gross area sown: Foodgrain|179|Haryana||23384|'000 hectares|A|31-03-2021|4595.1
+9480|Gross area sown: Foodgrain|179|Haryana||23384|'000 hectares|A|31-03-2022|4225.8
+9480|Gross area sown: Foodgrain|132|Himachal Pradesh||22907|'000 hectares|A|31-03-2014|778.9
+9480|Gross area sown: Foodgrain|132|Himachal Pradesh||22907|'000 hectares|A|31-03-2015|755.3
+9480|Gross area sown: Foodgrain|132|Himachal Pradesh||22907|'000 hectares|A|31-03-2016|761.2
+9480|Gross area sown: Foodgrain|132|Himachal Pradesh||22907|'000 hectares|A|31-03-2017|774.1
+9480|Gross area sown: Foodgrain|132|Himachal Pradesh||22907|'000 hectares|A|31-03-2018|724.9
+9480|Gross area sown: Foodgrain|132|Himachal Pradesh||22907|'000 hectares|A|31-03-2019|732.6
+9480|Gross area sown: Foodgrain|132|Himachal Pradesh||22907|'000 hectares|A|31-03-2020|701.9
+9480|Gross area sown: Foodgrain|132|Himachal Pradesh||22907|'000 hectares|A|31-03-2021|727.0
+9480|Gross area sown: Foodgrain|132|Himachal Pradesh||22907|'000 hectares|A|31-03-2022|710.9
+9480|Gross area sown: Foodgrain|101|Jammu & Kashmir||22673|'000 hectares|A|31-03-2014|928.6
+9480|Gross area sown: Foodgrain|101|Jammu & Kashmir||22673|'000 hectares|A|31-03-2015|957.3
+9480|Gross area sown: Foodgrain|101|Jammu & Kashmir||22673|'000 hectares|A|31-03-2016|912.8
+9480|Gross area sown: Foodgrain|121|Jammu & Kashmir||233655269|'000 hectares|A|31-03-2017|925.8
+9480|Gross area sown: Foodgrain|121|Jammu & Kashmir||233655269|'000 hectares|A|31-03-2018|919.3
+9480|Gross area sown: Foodgrain|121|Jammu & Kashmir||233655269|'000 hectares|A|31-03-2019|869.0
+9480|Gross area sown: Foodgrain|121|Jammu & Kashmir||233655269|'000 hectares|A|31-03-2020|835.6
+9480|Gross area sown: Foodgrain|121|Jammu & Kashmir||233655269|'000 hectares|A|31-03-2021|841.9
+9480|Gross area sown: Foodgrain|121|Jammu & Kashmir||233655269|'000 hectares|A|31-03-2022|877.0
+9480|Gross area sown: Foodgrain|639|Jharkhand||27497|'000 hectares|A|31-03-2014|2266.6
+9480|Gross area sown: Foodgrain|639|Jharkhand||27497|'000 hectares|A|31-03-2015|2552.6
+9480|Gross area sown: Foodgrain|639|Jharkhand||27497|'000 hectares|A|31-03-2016|2646.3
+9480|Gross area sown: Foodgrain|639|Jharkhand||27497|'000 hectares|A|31-03-2017|3052.7
+9480|Gross area sown: Foodgrain|639|Jharkhand||27497|'000 hectares|A|31-03-2018|3067.1
+9480|Gross area sown: Foodgrain|639|Jharkhand||27497|'000 hectares|A|31-03-2019|2711.0
+9480|Gross area sown: Foodgrain|639|Jharkhand||27497|'000 hectares|A|31-03-2020|2637.4
+9480|Gross area sown: Foodgrain|639|Jharkhand||27497|'000 hectares|A|31-03-2021|2811.0
+9480|Gross area sown: Foodgrain|639|Jharkhand||27497|'000 hectares|A|31-03-2022|2833.2
+9480|Gross area sown: Foodgrain|897|Karnataka||30026|'000 hectares|A|31-03-2014|7538.0
+9480|Gross area sown: Foodgrain|897|Karnataka||30026|'000 hectares|A|31-03-2015|7186.0
+9480|Gross area sown: Foodgrain|897|Karnataka||30026|'000 hectares|A|31-03-2016|7330.0
+9480|Gross area sown: Foodgrain|897|Karnataka||30026|'000 hectares|A|31-03-2017|7348.7
+9480|Gross area sown: Foodgrain|897|Karnataka||30026|'000 hectares|A|31-03-2018|7647.7
+9480|Gross area sown: Foodgrain|897|Karnataka||30026|'000 hectares|A|31-03-2019|7659.0
+9480|Gross area sown: Foodgrain|897|Karnataka||30026|'000 hectares|A|31-03-2020|7709.1
+9480|Gross area sown: Foodgrain|897|Karnataka||30026|'000 hectares|A|31-03-2021|8235.1
+9480|Gross area sown: Foodgrain|897|Karnataka||30026|'000 hectares|A|31-03-2022|7980.3
+9480|Gross area sown: Foodgrain|937|Kerala||30317|'000 hectares|A|31-03-2014|202.5
+9480|Gross area sown: Foodgrain|937|Kerala||30317|'000 hectares|A|31-03-2015|199.7
+9480|Gross area sown: Foodgrain|937|Kerala||30317|'000 hectares|A|31-03-2016|200.9
+9480|Gross area sown: Foodgrain|937|Kerala||30317|'000 hectares|A|31-03-2017|173.4
+9480|Gross area sown: Foodgrain|937|Kerala||30317|'000 hectares|A|31-03-2018|191.5
+9480|Gross area sown: Foodgrain|937|Kerala||30317|'000 hectares|A|31-03-2019|201.1
+9480|Gross area sown: Foodgrain|937|Kerala||30317|'000 hectares|A|31-03-2020|201.1
+9480|Gross area sown: Foodgrain|937|Kerala||30317|'000 hectares|A|31-03-2021|207.7
+9480|Gross area sown: Foodgrain|937|Kerala||30317|'000 hectares|A|31-03-2022|197.7
+9480|Gross area sown: Foodgrain|774|Madhya Pradesh||28625|'000 hectares|A|31-03-2014|14331.2
+9480|Gross area sown: Foodgrain|774|Madhya Pradesh||28625|'000 hectares|A|31-03-2015|15460.2
+9480|Gross area sown: Foodgrain|774|Madhya Pradesh||28625|'000 hectares|A|31-03-2016|15658.0
+9480|Gross area sown: Foodgrain|774|Madhya Pradesh||28625|'000 hectares|A|31-03-2017|17067.8
+9480|Gross area sown: Foodgrain|774|Madhya Pradesh||28625|'000 hectares|A|31-03-2018|17042.0
+9480|Gross area sown: Foodgrain|774|Madhya Pradesh||28625|'000 hectares|A|31-03-2019|16352.0
+9480|Gross area sown: Foodgrain|774|Madhya Pradesh||28625|'000 hectares|A|31-03-2020|15246.1
+9480|Gross area sown: Foodgrain|774|Madhya Pradesh||28625|'000 hectares|A|31-03-2021|15014.0
+9480|Gross area sown: Foodgrain|774|Madhya Pradesh||28625|'000 hectares|A|31-03-2022|15925.1
+9480|Gross area sown: Foodgrain|775|Madhya Pradesh||28901|'000 hectares|A||
+9480|Gross area sown: Foodgrain|723|Maharashtra||28181|'000 hectares|A|31-03-2014|11471.0
+9480|Gross area sown: Foodgrain|723|Maharashtra||28181|'000 hectares|A|31-03-2015|11450.0
+9480|Gross area sown: Foodgrain|723|Maharashtra||28181|'000 hectares|A|31-03-2016|11212.0
+9480|Gross area sown: Foodgrain|723|Maharashtra||28181|'000 hectares|A|31-03-2017|12377.4
+9480|Gross area sown: Foodgrain|723|Maharashtra||28181|'000 hectares|A|31-03-2018|10926.3
+9480|Gross area sown: Foodgrain|723|Maharashtra||28181|'000 hectares|A|31-03-2019|9621.6
+9480|Gross area sown: Foodgrain|723|Maharashtra||28181|'000 hectares|A|31-03-2020|11026.2
+9480|Gross area sown: Foodgrain|723|Maharashtra||28181|'000 hectares|A|31-03-2021|11345.9
+9480|Gross area sown: Foodgrain|723|Maharashtra||28181|'000 hectares|A|31-03-2022|11584.6
+9480|Gross area sown: Foodgrain|579|Manipur||26675|'000 hectares|A|31-03-2014|283.1
+9480|Gross area sown: Foodgrain|579|Manipur||26675|'000 hectares|A|31-03-2015|285.0
+9480|Gross area sown: Foodgrain|579|Manipur||26675|'000 hectares|A|31-03-2016|296.9
+9480|Gross area sown: Foodgrain|579|Manipur||26675|'000 hectares|A|31-03-2017|304.2
+9480|Gross area sown: Foodgrain|579|Manipur||26675|'000 hectares|A|31-03-2018|297.0
+9480|Gross area sown: Foodgrain|579|Manipur||26675|'000 hectares|A|31-03-2019|293.2
+9480|Gross area sown: Foodgrain|579|Manipur||26675|'000 hectares|A|31-03-2020|207.6
+9480|Gross area sown: Foodgrain|579|Manipur||26675|'000 hectares|A|31-03-2021|284.7
+9480|Gross area sown: Foodgrain|579|Manipur||26675|'000 hectares|A|31-03-2022|258.1
+9480|Gross area sown: Foodgrain|549|Meghalaya||26024|'000 hectares|A|31-03-2014|134.0
+9480|Gross area sown: Foodgrain|549|Meghalaya||26024|'000 hectares|A|31-03-2015|139.7
+9480|Gross area sown: Foodgrain|549|Meghalaya||26024|'000 hectares|A|31-03-2016|140.0
+9480|Gross area sown: Foodgrain|549|Meghalaya||26024|'000 hectares|A|31-03-2017|140.9
+9480|Gross area sown: Foodgrain|549|Meghalaya||26024|'000 hectares|A|31-03-2018|141.0
+9480|Gross area sown: Foodgrain|549|Meghalaya||26024|'000 hectares|A|31-03-2019|142.0
+9480|Gross area sown: Foodgrain|549|Meghalaya||26024|'000 hectares|A|31-03-2020|140.8
+9480|Gross area sown: Foodgrain|549|Meghalaya||26024|'000 hectares|A|31-03-2021|137.5
+9480|Gross area sown: Foodgrain|549|Meghalaya||26024|'000 hectares|A|31-03-2022|138.4
+9480|Gross area sown: Foodgrain|1080|Meghalaya||33330087|'000 hectares|A||
+9480|Gross area sown: Foodgrain|358|NCT of Delhi||24320|'000 hectares|A|31-03-2014|30.1
+9480|Gross area sown: Foodgrain|358|NCT of Delhi||24320|'000 hectares|A|31-03-2015|30.2
+9480|Gross area sown: Foodgrain|358|NCT of Delhi||24320|'000 hectares|A|31-03-2016|30.6
+9480|Gross area sown: Foodgrain|358|NCT of Delhi||24320|'000 hectares|A|31-03-2017|30.4
+9480|Gross area sown: Foodgrain|358|NCT of Delhi||24320|'000 hectares|A|31-03-2018|30.0
+9480|Gross area sown: Foodgrain|358|NCT of Delhi||24320|'000 hectares|A|31-03-2019|29.8
+9480|Gross area sown: Foodgrain|358|NCT of Delhi||24320|'000 hectares|A|31-03-2020|29.7
+9480|Gross area sown: Foodgrain|358|NCT of Delhi||24320|'000 hectares|A|31-03-2021|29.7
+9480|Gross area sown: Foodgrain|358|NCT of Delhi||24320|'000 hectares|A|31-03-2022|28.5
+9480|Gross area sown: Foodgrain|447|Odisha||25253|'000 hectares|A|31-03-2014|5143.3
+9480|Gross area sown: Foodgrain|447|Odisha||25253|'000 hectares|A|31-03-2015|5166.0
+9480|Gross area sown: Foodgrain|447|Odisha||25253|'000 hectares|A|31-03-2016|4818.9
+9480|Gross area sown: Foodgrain|447|Odisha||25253|'000 hectares|A|31-03-2017|4883.6
+9480|Gross area sown: Foodgrain|447|Odisha||25253|'000 hectares|A|31-03-2018|4665.4
+9480|Gross area sown: Foodgrain|447|Odisha||25253|'000 hectares|A|31-03-2019|4708.6
+9480|Gross area sown: Foodgrain|447|Odisha||25253|'000 hectares|A|31-03-2020|4829.1
+9480|Gross area sown: Foodgrain|447|Odisha||25253|'000 hectares|A|31-03-2021|4978.5
+9480|Gross area sown: Foodgrain|447|Odisha||25253|'000 hectares|A|31-03-2022|5022.2
+9480|Gross area sown: Foodgrain|1004|Puducherry||30836|'000 hectares|A|31-03-2014|17.1
+9480|Gross area sown: Foodgrain|1004|Puducherry||30836|'000 hectares|A|31-03-2015|18.6
+9480|Gross area sown: Foodgrain|1004|Puducherry||30836|'000 hectares|A|31-03-2016|19.6
+9480|Gross area sown: Foodgrain|1004|Puducherry||30836|'000 hectares|A|31-03-2017|17.8
+9480|Gross area sown: Foodgrain|1004|Puducherry||30836|'000 hectares|A|31-03-2018|18.8
+9480|Gross area sown: Foodgrain|1004|Puducherry||30836|'000 hectares|A|31-03-2019|19.2
+9480|Gross area sown: Foodgrain|1004|Puducherry||30836|'000 hectares|A|31-03-2020|19.6
+9480|Gross area sown: Foodgrain|1004|Puducherry||30836|'000 hectares|A|31-03-2021|19.3
+9480|Gross area sown: Foodgrain|1004|Puducherry||30836|'000 hectares|A|31-03-2022|20.3
+9480|Gross area sown: Foodgrain|147|Punjab||23150|'000 hectares|A|31-03-2014|6551.2
+9480|Gross area sown: Foodgrain|147|Punjab||23150|'000 hectares|A|31-03-2015|6585.2
+9480|Gross area sown: Foodgrain|147|Punjab||23150|'000 hectares|A|31-03-2016|6652.1
+9480|Gross area sown: Foodgrain|147|Punjab||23150|'000 hectares|A|31-03-2017|6555.7
+9480|Gross area sown: Foodgrain|147|Punjab||23150|'000 hectares|A|31-03-2018|6729.9
+9480|Gross area sown: Foodgrain|147|Punjab||23150|'000 hectares|A|31-03-2019|6769.4
+9480|Gross area sown: Foodgrain|147|Punjab||23150|'000 hectares|A|31-03-2020|6595.8
+9480|Gross area sown: Foodgrain|147|Punjab||23150|'000 hectares|A|31-03-2021|6604.5
+9480|Gross area sown: Foodgrain|147|Punjab||23150|'000 hectares|A|31-03-2022|6668.0
+9480|Gross area sown: Foodgrain|319|Rajasthan||24038|'000 hectares|A|31-03-2014|13417.1
+9480|Gross area sown: Foodgrain|319|Rajasthan||24038|'000 hectares|A|31-03-2015|12834.8
+9480|Gross area sown: Foodgrain|319|Rajasthan||24038|'000 hectares|A|31-03-2016|12976.9
+9480|Gross area sown: Foodgrain|319|Rajasthan||24038|'000 hectares|A|31-03-2017|14237.8
+9480|Gross area sown: Foodgrain|319|Rajasthan||24038|'000 hectares|A|31-03-2018|14237.0
+9480|Gross area sown: Foodgrain|319|Rajasthan||24038|'000 hectares|A|31-03-2019|14811.2
+9480|Gross area sown: Foodgrain|319|Rajasthan||24038|'000 hectares|A|31-03-2020|15809.6
+9480|Gross area sown: Foodgrain|319|Rajasthan||24038|'000 hectares|A|31-03-2021|15556.4
+9480|Gross area sown: Foodgrain|319|Rajasthan||24038|'000 hectares|A|31-03-2022|14748.1
+9480|Gross area sown: Foodgrain|958|Tamil Nadu||30560|'000 hectares|A|31-03-2014|3439.5
+9480|Gross area sown: Foodgrain|958|Tamil Nadu||30560|'000 hectares|A|31-03-2015|3538.1
+9480|Gross area sown: Foodgrain|958|Tamil Nadu||30560|'000 hectares|A|31-03-2016|3747.0
+9480|Gross area sown: Foodgrain|958|Tamil Nadu||30560|'000 hectares|A|31-03-2017|2945.9
+9480|Gross area sown: Foodgrain|958|Tamil Nadu||30560|'000 hectares|A|31-03-2018|3538.6
+9480|Gross area sown: Foodgrain|958|Tamil Nadu||30560|'000 hectares|A|31-03-2019|3495.9
+9480|Gross area sown: Foodgrain|958|Tamil Nadu||30560|'000 hectares|A|31-03-2020|3692.4
+9480|Gross area sown: Foodgrain|958|Tamil Nadu||30560|'000 hectares|A|31-03-2021|3819.6
+9480|Gross area sown: Foodgrain|958|Tamil Nadu||30560|'000 hectares|A|31-03-2022|3974.1
+9480|Gross area sown: Foodgrain|868|Telangana||33234654|'000 hectares|A|31-03-2014|3267.2
+9480|Gross area sown: Foodgrain|868|Telangana||33234654|'000 hectares|A|31-03-2015|2613.1
+9480|Gross area sown: Foodgrain|868|Telangana||33234654|'000 hectares|A|31-03-2016|2180.0
+9480|Gross area sown: Foodgrain|868|Telangana||33234654|'000 hectares|A|31-03-2017|3292.2
+9480|Gross area sown: Foodgrain|868|Telangana||33234654|'000 hectares|A|31-03-2018|3245.0
+9480|Gross area sown: Foodgrain|868|Telangana||33234654|'000 hectares|A|31-03-2019|3056.0
+9480|Gross area sown: Foodgrain|868|Telangana||33234654|'000 hectares|A|31-03-2020|3194.0
+9480|Gross area sown: Foodgrain|868|Telangana||33234654|'000 hectares|A|31-03-2021|4145.1
+9480|Gross area sown: Foodgrain|868|Telangana||33234654|'000 hectares|A|31-03-2022|4742.0
+9480|Gross area sown: Foodgrain|561|Tripura||26255|'000 hectares|A|31-03-2014|271.1
+9480|Gross area sown: Foodgrain|561|Tripura||26255|'000 hectares|A|31-03-2015|273.7
+9480|Gross area sown: Foodgrain|561|Tripura||26255|'000 hectares|A|31-03-2016|294.9
+9480|Gross area sown: Foodgrain|561|Tripura||26255|'000 hectares|A|31-03-2017|317.4
+9480|Gross area sown: Foodgrain|561|Tripura||26255|'000 hectares|A|31-03-2018|318.6
+9480|Gross area sown: Foodgrain|561|Tripura||26255|'000 hectares|A|31-03-2019|312.9
+9480|Gross area sown: Foodgrain|561|Tripura||26255|'000 hectares|A|31-03-2020|308.0
+9480|Gross area sown: Foodgrain|561|Tripura||26255|'000 hectares|A|31-03-2021|313.6
+9480|Gross area sown: Foodgrain|561|Tripura||26255|'000 hectares|A|31-03-2022|300.8
+9480|Gross area sown: Foodgrain|215|Uttar Pradesh||23633|'000 hectares|A|31-03-2014|20142.0
+9480|Gross area sown: Foodgrain|215|Uttar Pradesh||23633|'000 hectares|A|31-03-2015|20078.0
+9480|Gross area sown: Foodgrain|215|Uttar Pradesh||23633|'000 hectares|A|31-03-2016|19355.0
+9480|Gross area sown: Foodgrain|215|Uttar Pradesh||23633|'000 hectares|A|31-03-2017|20164.0
+9480|Gross area sown: Foodgrain|215|Uttar Pradesh||23633|'000 hectares|A|31-03-2018|19800.0
+9480|Gross area sown: Foodgrain|215|Uttar Pradesh||23633|'000 hectares|A|31-03-2019|19493.0
+9480|Gross area sown: Foodgrain|215|Uttar Pradesh||23633|'000 hectares|A|31-03-2020|19949.0
+9480|Gross area sown: Foodgrain|215|Uttar Pradesh||23633|'000 hectares|A|31-03-2021|19933.0
+9480|Gross area sown: Foodgrain|215|Uttar Pradesh||23633|'000 hectares|A|31-03-2022|19547.0
+9480|Gross area sown: Foodgrain|216|Uttar Pradesh||23900|'000 hectares|A||
+9480|Gross area sown: Foodgrain|369|Uttarakhand||24503|'000 hectares|A|31-03-2014|890.6
+9480|Gross area sown: Foodgrain|369|Uttarakhand||24503|'000 hectares|A|31-03-2015|897.6
+9480|Gross area sown: Foodgrain|369|Uttarakhand||24503|'000 hectares|A|31-03-2016|877.7
+9480|Gross area sown: Foodgrain|369|Uttarakhand||24503|'000 hectares|A|31-03-2017|877.0
+9480|Gross area sown: Foodgrain|369|Uttarakhand||24503|'000 hectares|A|31-03-2018|851.0
+9480|Gross area sown: Foodgrain|369|Uttarakhand||24503|'000 hectares|A|31-03-2019|835.0
+9480|Gross area sown: Foodgrain|369|Uttarakhand||24503|'000 hectares|A|31-03-2020|805.0
+9480|Gross area sown: Foodgrain|369|Uttarakhand||24503|'000 hectares|A|31-03-2021|809.0
+9480|Gross area sown: Foodgrain|369|Uttarakhand||24503|'000 hectares|A|31-03-2022|788.0
+9480|Gross area sown: Foodgrain|488|West Bengal||25520|'000 hectares|A|31-03-2014|6275.8
+9480|Gross area sown: Foodgrain|488|West Bengal||25520|'000 hectares|A|31-03-2015|6128.2
+9480|Gross area sown: Foodgrain|488|West Bengal||25520|'000 hectares|A|31-03-2016|6378.8
+9480|Gross area sown: Foodgrain|488|West Bengal||25520|'000 hectares|A|31-03-2017|6262.6
+9480|Gross area sown: Foodgrain|488|West Bengal||25520|'000 hectares|A|31-03-2018|5944.7
+9480|Gross area sown: Foodgrain|488|West Bengal||25520|'000 hectares|A|31-03-2019|6361.3
+9480|Gross area sown: Foodgrain|488|West Bengal||25520|'000 hectares|A|31-03-2020|6471.6
+9480|Gross area sown: Foodgrain|488|West Bengal||25520|'000 hectares|A|31-03-2021|6612.3
+9480|Gross area sown: Foodgrain|488|West Bengal||25520|'000 hectares|A|31-03-2022|6623.4
+9480|Gross area sown: Foodgrain|679|Andaman & Nicobar Islands||27728|'000 hectares|A|31-03-2014|8.7
+9480|Gross area sown: Foodgrain|679|Andaman & Nicobar Islands||27728|'000 hectares|A|31-03-2015|8.2
+9480|Gross area sown: Foodgrain|679|Andaman & Nicobar Islands||27728|'000 hectares|A|31-03-2016|7.6
+9480|Gross area sown: Foodgrain|679|Andaman & Nicobar Islands||27728|'000 hectares|A|31-03-2017|6.5
+9480|Gross area sown: Foodgrain|679|Andaman & Nicobar Islands||27728|'000 hectares|A|31-03-2018|5.9
+9480|Gross area sown: Foodgrain|679|Andaman & Nicobar Islands||27728|'000 hectares|A|31-03-2019|6.0
+9480|Gross area sown: Foodgrain|679|Andaman & Nicobar Islands||27728|'000 hectares|A|31-03-2020|6.2
+9480|Gross area sown: Foodgrain|679|Andaman & Nicobar Islands||27728|'000 hectares|A|31-03-2021|6.9
+9480|Gross area sown: Foodgrain|679|Andaman & Nicobar Islands||27728|'000 hectares|A|31-03-2022|6.9
+9480|Gross area sown: Foodgrain|608|Arunachal Pradesh||27116|'000 hectares|A|31-03-2014|214.3
+9480|Gross area sown: Foodgrain|608|Arunachal Pradesh||27116|'000 hectares|A|31-03-2015|216.5
+9480|Gross area sown: Foodgrain|608|Arunachal Pradesh||27116|'000 hectares|A|31-03-2016|221.8
+9480|Gross area sown: Foodgrain|608|Arunachal Pradesh||27116|'000 hectares|A|31-03-2017|203.5
+9480|Gross area sown: Foodgrain|608|Arunachal Pradesh||27116|'000 hectares|A|31-03-2018|226.7
+9480|Gross area sown: Foodgrain|608|Arunachal Pradesh||27116|'000 hectares|A|31-03-2019|228.2
+9480|Gross area sown: Foodgrain|608|Arunachal Pradesh||27116|'000 hectares|A|31-03-2020|228.8
+9480|Gross area sown: Foodgrain|608|Arunachal Pradesh||27116|'000 hectares|A|31-03-2021|229.0
+9480|Gross area sown: Foodgrain|608|Arunachal Pradesh||27116|'000 hectares|A|31-03-2022|235.4
+9480|Gross area sown: Foodgrain|1300|Dadra & Nagar Haveli and Daman & Diu||||A||
+9480|Gross area sown: Foodgrain|860|Daman & Diu||29324|'000 hectares|A|31-03-2014|2.3
+9480|Gross area sown: Foodgrain|860|Daman & Diu||29324|'000 hectares|A|31-03-2015|2.4
+9480|Gross area sown: Foodgrain|860|Daman & Diu||29324|'000 hectares|A|31-03-2016|2.2
+9480|Gross area sown: Foodgrain|860|Daman & Diu||29324|'000 hectares|A|31-03-2017|2.2
+9480|Gross area sown: Foodgrain|860|Daman & Diu||29324|'000 hectares|A|31-03-2018|2.2
+9480|Gross area sown: Foodgrain|860|Daman & Diu||29324|'000 hectares|A|31-03-2019|1.9
+9480|Gross area sown: Foodgrain|860|Daman & Diu||29324|'000 hectares|A|31-03-2020|1.8
+9480|Gross area sown: Foodgrain|860|Daman & Diu||29324|'000 hectares|A|31-03-2021|1.9
+9480|Gross area sown: Foodgrain|860|Daman & Diu||29324|'000 hectares|A|31-03-2022|1.9
+9480|Gross area sown: Foodgrain|863|Dadra & Nagar Haveli||29474|'000 hectares|A|31-03-2014|21.3
+9480|Gross area sown: Foodgrain|863|Dadra & Nagar Haveli||29474|'000 hectares|A|31-03-2015|21.7
+9480|Gross area sown: Foodgrain|863|Dadra & Nagar Haveli||29474|'000 hectares|A|31-03-2016|18.9
+9480|Gross area sown: Foodgrain|863|Dadra & Nagar Haveli||29474|'000 hectares|A|31-03-2017|18.1
+9480|Gross area sown: Foodgrain|863|Dadra & Nagar Haveli||29474|'000 hectares|A|31-03-2018|17.8
+9480|Gross area sown: Foodgrain|863|Dadra & Nagar Haveli||29474|'000 hectares|A|31-03-2019|19.7
+9480|Gross area sown: Foodgrain|863|Dadra & Nagar Haveli||29474|'000 hectares|A|31-03-2020|20.2
+9480|Gross area sown: Foodgrain|863|Dadra & Nagar Haveli||29474|'000 hectares|A|31-03-2021|16.7
+9480|Gross area sown: Foodgrain|863|Dadra & Nagar Haveli||29474|'000 hectares|A|31-03-2022|16.7
+9480|Gross area sown: Foodgrain|864|Lakshadweep||33234237|'000 hectares|A|31-03-2022|0.0
+9480|Gross area sown: Foodgrain|592|Nagaland||26873|'000 hectares|A|31-03-2014|309.5
+9480|Gross area sown: Foodgrain|592|Nagaland||26873|'000 hectares|A|31-03-2015|314.6
+9480|Gross area sown: Foodgrain|592|Nagaland||26873|'000 hectares|A|31-03-2016|321.2
+9480|Gross area sown: Foodgrain|592|Nagaland||26873|'000 hectares|A|31-03-2017|330.0
+9480|Gross area sown: Foodgrain|592|Nagaland||26873|'000 hectares|A|31-03-2018|336.5
+9480|Gross area sown: Foodgrain|592|Nagaland||26873|'000 hectares|A|31-03-2019|335.4
+9480|Gross area sown: Foodgrain|592|Nagaland||26873|'000 hectares|A|31-03-2020|340.6
+9480|Gross area sown: Foodgrain|592|Nagaland||26873|'000 hectares|A|31-03-2021|342.6
+9480|Gross area sown: Foodgrain|592|Nagaland||26873|'000 hectares|A|31-03-2022|197.8
+9480|Gross area sown: Foodgrain|568|Mizoram||26477|'000 hectares|A|31-03-2014|48.4
+9480|Gross area sown: Foodgrain|568|Mizoram||26477|'000 hectares|A|31-03-2015|46.8
+9480|Gross area sown: Foodgrain|568|Mizoram||26477|'000 hectares|A|31-03-2016|48.5
+9480|Gross area sown: Foodgrain|568|Mizoram||26477|'000 hectares|A|31-03-2017|46.2
+9480|Gross area sown: Foodgrain|568|Mizoram||26477|'000 hectares|A|31-03-2018|45.4
+9480|Gross area sown: Foodgrain|568|Mizoram||26477|'000 hectares|A|31-03-2019|45.5
+9480|Gross area sown: Foodgrain|568|Mizoram||26477|'000 hectares|A|31-03-2020|45.6
+9480|Gross area sown: Foodgrain|568|Mizoram||26477|'000 hectares|A|31-03-2021|46.5
+9480|Gross area sown: Foodgrain|568|Mizoram||26477|'000 hectares|A|31-03-2022|45.6
+9480|Gross area sown: Foodgrain|634|Sikkim||27311|'000 hectares|A|31-03-2014|64.9
+9480|Gross area sown: Foodgrain|634|Sikkim||27311|'000 hectares|A|31-03-2015|64.7
+9480|Gross area sown: Foodgrain|634|Sikkim||27311|'000 hectares|A|31-03-2016|62.5
+9480|Gross area sown: Foodgrain|634|Sikkim||27311|'000 hectares|A|31-03-2017|62.7
+9480|Gross area sown: Foodgrain|634|Sikkim||27311|'000 hectares|A|31-03-2018|56.4
+9480|Gross area sown: Foodgrain|634|Sikkim||27311|'000 hectares|A|31-03-2019|55.1
+9480|Gross area sown: Foodgrain|634|Sikkim||27311|'000 hectares|A|31-03-2020|55.2
+9480|Gross area sown: Foodgrain|634|Sikkim||27311|'000 hectares|A|31-03-2021|54.7
+9480|Gross area sown: Foodgrain|634|Sikkim||27311|'000 hectares|A|31-03-2022|54.3
+94165|SCBs credit|869|Andhra Pradesh||1000726|Rs.million|A|31-03-2015|2043338.3
+94165|SCBs credit|869|Andhra Pradesh||1000726|Rs.million|A|31-03-2016|2305211.5
+94165|SCBs credit|869|Andhra Pradesh||1000726|Rs.million|A|31-03-2017|2602248.8
+94165|SCBs credit|869|Andhra Pradesh||1000726|Rs.million|A|31-03-2018|3131990.7
+94165|SCBs credit|869|Andhra Pradesh||1000726|Rs.million|A|31-03-2019|3735724.8
+94165|SCBs credit|869|Andhra Pradesh||1000726|Rs.million|A|31-03-2020|4188300.6
+94165|SCBs credit|869|Andhra Pradesh||1000726|Rs.million|A|31-03-2021|4865355.9
+94165|SCBs credit|869|Andhra Pradesh||1000726|Rs.million|A|31-03-2022|5505604.5
+94165|SCBs credit|870|Andhra Pradesh||57182238|Rs.million|A|31-03-2014|5112131.7
+94165|SCBs credit|1064|Assam||||A||
+94165|SCBs credit|511|Assam||999880|Rs.million|A|31-03-2014|334827.3
+94165|SCBs credit|511|Assam||999880|Rs.million|A|31-03-2015|807134.0
+94165|SCBs credit|511|Assam||999880|Rs.million|A|31-03-2016|443593.9
+94165|SCBs credit|511|Assam||999880|Rs.million|A|31-03-2017|509799.8
+94165|SCBs credit|511|Assam||999880|Rs.million|A|31-03-2018|590648.4
+94165|SCBs credit|511|Assam||999880|Rs.million|A|31-03-2019|673604.1
+94165|SCBs credit|511|Assam||999880|Rs.million|A|31-03-2020|729538.2
+94165|SCBs credit|511|Assam||999880|Rs.million|A|31-03-2021|832352.7
+94165|SCBs credit|511|Assam||999880|Rs.million|A|31-03-2022|959923.3
+94165|SCBs credit|390|Bihar||999598|Rs.million|A|31-03-2014|663203.3
+94165|SCBs credit|390|Bihar||999598|Rs.million|A|31-03-2015|743700.7
+94165|SCBs credit|390|Bihar||999598|Rs.million|A|31-03-2016|839609.5
+94165|SCBs credit|390|Bihar||999598|Rs.million|A|31-03-2017|945398.2
+94165|SCBs credit|390|Bihar||999598|Rs.million|A|31-03-2018|1069393.4
+94165|SCBs credit|390|Bihar||999598|Rs.million|A|31-03-2019|1249949.4
+94165|SCBs credit|390|Bihar||999598|Rs.million|A|31-03-2020|1395899.2
+94165|SCBs credit|390|Bihar||999598|Rs.million|A|31-03-2021|1639643.0
+94165|SCBs credit|390|Bihar||999598|Rs.million|A|31-03-2022|1955922.9
+94165|SCBs credit|391|Bihar||115606215|Rs.million|A||
+94165|SCBs credit|389|Chandigarh||999595|Rs.million|A|31-03-2014|590593.3
+94165|SCBs credit|389|Chandigarh||999595|Rs.million|A|31-03-2015|611150.1
+94165|SCBs credit|389|Chandigarh||999595|Rs.million|A|31-03-2016|556828.9
+94165|SCBs credit|389|Chandigarh||999595|Rs.million|A|31-03-2017|617175.5
+94165|SCBs credit|389|Chandigarh||999595|Rs.million|A|31-03-2018|714879.6
+94165|SCBs credit|389|Chandigarh||999595|Rs.million|A|31-03-2019|779560.9
+94165|SCBs credit|389|Chandigarh||999595|Rs.million|A|31-03-2020|780015.4
+94165|SCBs credit|389|Chandigarh||999595|Rs.million|A|31-03-2021|807928.6
+94165|SCBs credit|389|Chandigarh||999595|Rs.million|A|31-03-2022|820074.5
+94165|SCBs credit|834|Chhattisgarh||1000627|Rs.million|A|31-03-2014|543838.3
+94165|SCBs credit|834|Chhattisgarh||1000627|Rs.million|A|31-03-2015|628768.2
+94165|SCBs credit|834|Chhattisgarh||1000627|Rs.million|A|31-03-2016|693382.4
+94165|SCBs credit|834|Chhattisgarh||1000627|Rs.million|A|31-03-2017|773105.3
+94165|SCBs credit|834|Chhattisgarh||1000627|Rs.million|A|31-03-2018|873052.0
+94165|SCBs credit|834|Chhattisgarh||1000627|Rs.million|A|31-03-2019|944036.8
+94165|SCBs credit|834|Chhattisgarh||1000627|Rs.million|A|31-03-2020|1046471.7
+94165|SCBs credit|834|Chhattisgarh||1000627|Rs.million|A|31-03-2021|1156588.2
+94165|SCBs credit|834|Chhattisgarh||1000627|Rs.million|A|31-03-2022|1381032.5
+94165|SCBs credit|771|Goa||1000462|Rs.million|A|31-03-2014|136117.0
+94165|SCBs credit|771|Goa||1000462|Rs.million|A|31-03-2015|145379.0
+94165|SCBs credit|771|Goa||1000462|Rs.million|A|31-03-2016|162421.6
+94165|SCBs credit|771|Goa||1000462|Rs.million|A|31-03-2017|170395.8
+94165|SCBs credit|771|Goa||1000462|Rs.million|A|31-03-2018|183450.2
+94165|SCBs credit|771|Goa||1000462|Rs.million|A|31-03-2019|194162.1
+94165|SCBs credit|771|Goa||1000462|Rs.million|A|31-03-2020|201457.3
+94165|SCBs credit|771|Goa||1000462|Rs.million|A|31-03-2021|221660.4
+94165|SCBs credit|771|Goa||1000462|Rs.million|A|31-03-2022|240916.5
+94165|SCBs credit|1060|Goa, Daman & Diu||127084343|Rs.million|A||
+94165|SCBs credit|688|Gujarat||1000273|Rs.million|A|31-03-2014|3360005.6
+94165|SCBs credit|688|Gujarat||1000273|Rs.million|A|31-03-2015|3771014.1
+94165|SCBs credit|688|Gujarat||1000273|Rs.million|A|31-03-2016|4270399.2
+94165|SCBs credit|688|Gujarat||1000273|Rs.million|A|31-03-2017|4543599.5
+94165|SCBs credit|688|Gujarat||1000273|Rs.million|A|31-03-2018|5263185.3
+94165|SCBs credit|688|Gujarat||1000273|Rs.million|A|31-03-2019|5915325.5
+94165|SCBs credit|688|Gujarat||1000273|Rs.million|A|31-03-2020|6114990.1
+94165|SCBs credit|688|Gujarat||1000273|Rs.million|A|31-03-2021|6597718.8
+94165|SCBs credit|688|Gujarat||1000273|Rs.million|A|31-03-2022|7588679.0
+94165|SCBs credit|179|Haryana||999154|Rs.million|A|31-03-2014|1710423.0
+94165|SCBs credit|179|Haryana||999154|Rs.million|A|31-03-2015|1898210.0
+94165|SCBs credit|179|Haryana||999154|Rs.million|A|31-03-2016|2087663.0
+94165|SCBs credit|179|Haryana||999154|Rs.million|A|31-03-2017|2138784.4
+94165|SCBs credit|179|Haryana||999154|Rs.million|A|31-03-2018|2476108.6
+94165|SCBs credit|179|Haryana||999154|Rs.million|A|31-03-2019|2788742.9
+94165|SCBs credit|179|Haryana||999154|Rs.million|A|31-03-2020|3080582.7
+94165|SCBs credit|179|Haryana||999154|Rs.million|A|31-03-2021|3219359.2
+94165|SCBs credit|179|Haryana||999154|Rs.million|A|31-03-2022|3729548.8
+94165|SCBs credit|132|Himachal Pradesh||999046|Rs.million|A|31-03-2014|196531.8
+94165|SCBs credit|132|Himachal Pradesh||999046|Rs.million|A|31-03-2015|219182.4
+94165|SCBs credit|132|Himachal Pradesh||999046|Rs.million|A|31-03-2016|222747.4
+94165|SCBs credit|132|Himachal Pradesh||999046|Rs.million|A|31-03-2017|243868.4
+94165|SCBs credit|132|Himachal Pradesh||999046|Rs.million|A|31-03-2018|269597.2
+94165|SCBs credit|132|Himachal Pradesh||999046|Rs.million|A|31-03-2019|303321.7
+94165|SCBs credit|132|Himachal Pradesh||999046|Rs.million|A|31-03-2020|323268.7
+94165|SCBs credit|132|Himachal Pradesh||999046|Rs.million|A|31-03-2021|358992.3
+94165|SCBs credit|132|Himachal Pradesh||999046|Rs.million|A|31-03-2022|409417.5
+94165|SCBs credit|101|Jammu & Kashmir||||A||
+94165|SCBs credit|121|Jammu & Kashmir||998977|Rs.million|A|31-03-2014|269171.3
+94165|SCBs credit|121|Jammu & Kashmir||998977|Rs.million|A|31-03-2015|313648.0
+94165|SCBs credit|121|Jammu & Kashmir||998977|Rs.million|A|31-03-2016|359086.3
+94165|SCBs credit|121|Jammu & Kashmir||998977|Rs.million|A|31-03-2017|377508.1
+94165|SCBs credit|121|Jammu & Kashmir||998977|Rs.million|A|31-03-2018|453245.4
+94165|SCBs credit|121|Jammu & Kashmir||998977|Rs.million|A|31-03-2019|542818.2
+94165|SCBs credit|121|Jammu & Kashmir||998977|Rs.million|A|31-03-2020|592021.1
+94165|SCBs credit|121|Jammu & Kashmir||998977|Rs.million|A|31-03-2021|699080.2
+94165|SCBs credit|121|Jammu & Kashmir||998977|Rs.million|A|31-03-2022|799612.9
+94165|SCBs credit|639|Jharkhand||1000168|Rs.million|A|31-03-2014|396559.7
+94165|SCBs credit|639|Jharkhand||1000168|Rs.million|A|31-03-2015|434332.8
+94165|SCBs credit|639|Jharkhand||1000168|Rs.million|A|31-03-2016|490622.4
+94165|SCBs credit|639|Jharkhand||1000168|Rs.million|A|31-03-2017|535978.4
+94165|SCBs credit|639|Jharkhand||1000168|Rs.million|A|31-03-2018|599769.0
+94165|SCBs credit|639|Jharkhand||1000168|Rs.million|A|31-03-2019|632414.2
+94165|SCBs credit|639|Jharkhand||1000168|Rs.million|A|31-03-2020|710550.2
+94165|SCBs credit|639|Jharkhand||1000168|Rs.million|A|31-03-2021|806789.4
+94165|SCBs credit|639|Jharkhand||1000168|Rs.million|A|31-03-2022|921880.6
+94165|SCBs credit|897|Karnataka||1000798|Rs.million|A|31-03-2014|4109142.2
+94165|SCBs credit|897|Karnataka||1000798|Rs.million|A|31-03-2015|4606692.8
+94165|SCBs credit|897|Karnataka||1000798|Rs.million|A|31-03-2016|5245359.1
+94165|SCBs credit|897|Karnataka||1000798|Rs.million|A|31-03-2017|5574893.6
+94165|SCBs credit|897|Karnataka||1000798|Rs.million|A|31-03-2018|6324228.2
+94165|SCBs credit|897|Karnataka||1000798|Rs.million|A|31-03-2019|7016778.1
+94165|SCBs credit|897|Karnataka||1000798|Rs.million|A|31-03-2020|7418377.2
+94165|SCBs credit|897|Karnataka||1000798|Rs.million|A|31-03-2021|7933756.5
+94165|SCBs credit|897|Karnataka||1000798|Rs.million|A|31-03-2022|8889220.6
+94165|SCBs credit|937|Kerala||1000891|Rs.million|A|31-03-2014|1908709.5
+94165|SCBs credit|937|Kerala||1000891|Rs.million|A|31-03-2015|2147499.0
+94165|SCBs credit|937|Kerala||1000891|Rs.million|A|31-03-2016|2307305.1
+94165|SCBs credit|937|Kerala||1000891|Rs.million|A|31-03-2017|2516999.7
+94165|SCBs credit|937|Kerala||1000891|Rs.million|A|31-03-2018|2895535.4
+94165|SCBs credit|937|Kerala||1000891|Rs.million|A|31-03-2019|3348472.7
+94165|SCBs credit|937|Kerala||1000891|Rs.million|A|31-03-2020|3608923.6
+94165|SCBs credit|937|Kerala||1000891|Rs.million|A|31-03-2021|3887324.6
+94165|SCBs credit|937|Kerala||1000891|Rs.million|A|31-03-2022|4242468.8
+94165|SCBs credit|774|Madhya Pradesh||1000474|Rs.million|A|31-03-2014|1422833.9
+94165|SCBs credit|774|Madhya Pradesh||1000474|Rs.million|A|31-03-2015|1610041.9
+94165|SCBs credit|774|Madhya Pradesh||1000474|Rs.million|A|31-03-2016|1795764.3
+94165|SCBs credit|774|Madhya Pradesh||1000474|Rs.million|A|31-03-2017|1985680.6
+94165|SCBs credit|774|Madhya Pradesh||1000474|Rs.million|A|31-03-2018|2311485.4
+94165|SCBs credit|774|Madhya Pradesh||1000474|Rs.million|A|31-03-2019|2621046.4
+94165|SCBs credit|774|Madhya Pradesh||1000474|Rs.million|A|31-03-2020|2859891.0
+94165|SCBs credit|774|Madhya Pradesh||1000474|Rs.million|A|31-03-2021|3204520.3
+94165|SCBs credit|774|Madhya Pradesh||1000474|Rs.million|A|31-03-2022|3593215.6
+94165|SCBs credit|775|Madhya Pradesh||115606848|Rs.million|A||
+94165|SCBs credit|723|Maharashtra||1000354|Rs.million|A|31-03-2014|16496781.2
+94165|SCBs credit|723|Maharashtra||1000354|Rs.million|A|31-03-2015|17776345.1
+94165|SCBs credit|723|Maharashtra||1000354|Rs.million|A|31-03-2016|19943120.2
+94165|SCBs credit|723|Maharashtra||1000354|Rs.million|A|31-03-2017|20635668.2
+94165|SCBs credit|723|Maharashtra||1000354|Rs.million|A|31-03-2018|21567268.6
+94165|SCBs credit|723|Maharashtra||1000354|Rs.million|A|31-03-2019|24265434.0
+94165|SCBs credit|723|Maharashtra||1000354|Rs.million|A|31-03-2020|25110915.6
+94165|SCBs credit|723|Maharashtra||1000354|Rs.million|A|31-03-2021|25047951.8
+94165|SCBs credit|723|Maharashtra||1000354|Rs.million|A|31-03-2022|27173992.7
+94165|SCBs credit|579|Manipur||1000033|Rs.million|A|31-03-2014|17223.6
+94165|SCBs credit|579|Manipur||1000033|Rs.million|A|31-03-2015|19788.4
+94165|SCBs credit|579|Manipur||1000033|Rs.million|A|31-03-2016|25513.5
+94165|SCBs credit|579|Manipur||1000033|Rs.million|A|31-03-2017|30853.9
+94165|SCBs credit|579|Manipur||1000033|Rs.million|A|31-03-2018|40718.7
+94165|SCBs credit|579|Manipur||1000033|Rs.million|A|31-03-2019|49456.1
+94165|SCBs credit|579|Manipur||1000033|Rs.million|A|31-03-2020|61290.6
+94165|SCBs credit|579|Manipur||1000033|Rs.million|A|31-03-2021|74054.7
+94165|SCBs credit|579|Manipur||1000033|Rs.million|A|31-03-2022|91632.6
+94165|SCBs credit|549|Meghalaya||999964|Rs.million|A|31-03-2014|41766.5
+94165|SCBs credit|549|Meghalaya||999964|Rs.million|A|31-03-2015|44780.0
+94165|SCBs credit|549|Meghalaya||999964|Rs.million|A|31-03-2016|45722.1
+94165|SCBs credit|549|Meghalaya||999964|Rs.million|A|31-03-2017|53730.3
+94165|SCBs credit|549|Meghalaya||999964|Rs.million|A|31-03-2018|66129.8
+94165|SCBs credit|549|Meghalaya||999964|Rs.million|A|31-03-2019|74478.0
+94165|SCBs credit|549|Meghalaya||999964|Rs.million|A|31-03-2020|84351.7
+94165|SCBs credit|549|Meghalaya||999964|Rs.million|A|31-03-2021|97851.0
+94165|SCBs credit|549|Meghalaya||999964|Rs.million|A|31-03-2022|95116.9
+94165|SCBs credit|1080|Meghalaya||||A||
+94165|SCBs credit|358|NCT of Delhi||999550|Rs.million|A|31-03-2014|8563468.2
+94165|SCBs credit|358|NCT of Delhi||999550|Rs.million|A|31-03-2015|8850311.1
+94165|SCBs credit|358|NCT of Delhi||999550|Rs.million|A|31-03-2016|9948046.1
+94165|SCBs credit|358|NCT of Delhi||999550|Rs.million|A|31-03-2017|10037685.4
+94165|SCBs credit|358|NCT of Delhi||999550|Rs.million|A|31-03-2018|11022295.0
+94165|SCBs credit|358|NCT of Delhi||999550|Rs.million|A|31-03-2019|13141649.6
+94165|SCBs credit|358|NCT of Delhi||999550|Rs.million|A|31-03-2020|13704122.1
+94165|SCBs credit|358|NCT of Delhi||999550|Rs.million|A|31-03-2021|13530580.5
+94165|SCBs credit|358|NCT of Delhi||999550|Rs.million|A|31-03-2022|14250789.0
+94165|SCBs credit|447|Odisha||999718|Rs.million|A|31-03-2014|760849.1
+94165|SCBs credit|447|Odisha||999718|Rs.million|A|31-03-2015|835232.7
+94165|SCBs credit|447|Odisha||999718|Rs.million|A|31-03-2016|905549.2
+94165|SCBs credit|447|Odisha||999718|Rs.million|A|31-03-2017|992417.3
+94165|SCBs credit|447|Odisha||999718|Rs.million|A|31-03-2018|1089386.5
+94165|SCBs credit|447|Odisha||999718|Rs.million|A|31-03-2019|1276449.8
+94165|SCBs credit|447|Odisha||999718|Rs.million|A|31-03-2020|1438785.3
+94165|SCBs credit|447|Odisha||999718|Rs.million|A|31-03-2021|1559539.7
+94165|SCBs credit|447|Odisha||999718|Rs.million|A|31-03-2022|1834052.2
+94165|SCBs credit|1004|Puducherry||1001041|Rs.million|A|31-03-2014|75879.3
+94165|SCBs credit|1004|Puducherry||1001041|Rs.million|A|31-03-2015|82345.0
+94165|SCBs credit|1004|Puducherry||1001041|Rs.million|A|31-03-2016|88028.9
+94165|SCBs credit|1004|Puducherry||1001041|Rs.million|A|31-03-2017|96790.2
+94165|SCBs credit|1004|Puducherry||1001041|Rs.million|A|31-03-2018|108512.4
+94165|SCBs credit|1004|Puducherry||1001041|Rs.million|A|31-03-2019|123633.9
+94165|SCBs credit|1004|Puducherry||1001041|Rs.million|A|31-03-2020|133220.4
+94165|SCBs credit|1004|Puducherry||1001041|Rs.million|A|31-03-2021|148849.6
+94165|SCBs credit|1004|Puducherry||1001041|Rs.million|A|31-03-2022|161559.2
+94165|SCBs credit|147|Punjab||999085|Rs.million|A|31-03-2014|1869755.8
+94165|SCBs credit|147|Punjab||999085|Rs.million|A|31-03-2015|2013210.4
+94165|SCBs credit|147|Punjab||999085|Rs.million|A|31-03-2016|2079721.9
+94165|SCBs credit|147|Punjab||999085|Rs.million|A|31-03-2017|2357916.9
+94165|SCBs credit|147|Punjab||999085|Rs.million|A|31-03-2018|2375075.8
+94165|SCBs credit|147|Punjab||999085|Rs.million|A|31-03-2019|2362105.8
+94165|SCBs credit|147|Punjab||999085|Rs.million|A|31-03-2020|2440573.1
+94165|SCBs credit|147|Punjab||999085|Rs.million|A|31-03-2021|2635325.0
+94165|SCBs credit|147|Punjab||999085|Rs.million|A|31-03-2022|2883307.5
+94165|SCBs credit|319|Rajasthan||999448|Rs.million|A|31-03-2014|1840051.1
+94165|SCBs credit|319|Rajasthan||999448|Rs.million|A|31-03-2015|2121822.3
+94165|SCBs credit|319|Rajasthan||999448|Rs.million|A|31-03-2016|1976660.1
+94165|SCBs credit|319|Rajasthan||999448|Rs.million|A|31-03-2017|2247046.2
+94165|SCBs credit|319|Rajasthan||999448|Rs.million|A|31-03-2018|2694100.8
+94165|SCBs credit|319|Rajasthan||999448|Rs.million|A|31-03-2019|3252354.7
+94165|SCBs credit|319|Rajasthan||999448|Rs.million|A|31-03-2020|3524254.7
+94165|SCBs credit|319|Rajasthan||999448|Rs.million|A|31-03-2021|3886311.0
+94165|SCBs credit|319|Rajasthan||999448|Rs.million|A|31-03-2022|4427300.0
+94165|SCBs credit|958|Tamil Nadu||1000939|Rs.million|A|31-03-2014|6029836.7
+94165|SCBs credit|958|Tamil Nadu||1000939|Rs.million|A|31-03-2015|6406311.7
+94165|SCBs credit|958|Tamil Nadu||1000939|Rs.million|A|31-03-2016|6742682.2
+94165|SCBs credit|958|Tamil Nadu||1000939|Rs.million|A|31-03-2017|6942146.2
+94165|SCBs credit|958|Tamil Nadu||1000939|Rs.million|A|31-03-2018|7941817.3
+94165|SCBs credit|958|Tamil Nadu||1000939|Rs.million|A|31-03-2019|8910296.5
+94165|SCBs credit|958|Tamil Nadu||1000939|Rs.million|A|31-03-2020|9816650.7
+94165|SCBs credit|958|Tamil Nadu||1000939|Rs.million|A|31-03-2021|10469520.0
+94165|SCBs credit|958|Tamil Nadu||1000939|Rs.million|A|31-03-2022|11586058.8
+94165|SCBs credit|868|Telangana||33385767|Rs.million|A|31-03-2015|3538633.0
+94165|SCBs credit|868|Telangana||33385767|Rs.million|A|31-03-2016|3967451.6
+94165|SCBs credit|868|Telangana||33385767|Rs.million|A|31-03-2017|4223509.9
+94165|SCBs credit|868|Telangana||33385767|Rs.million|A|31-03-2018|4808403.2
+94165|SCBs credit|868|Telangana||33385767|Rs.million|A|31-03-2019|5185180.8
+94165|SCBs credit|868|Telangana||33385767|Rs.million|A|31-03-2020|5504108.1
+94165|SCBs credit|868|Telangana||33385767|Rs.million|A|31-03-2021|6014771.7
+94165|SCBs credit|868|Telangana||33385767|Rs.million|A|31-03-2022|6608567.2
+94165|SCBs credit|561|Tripura||999991|Rs.million|A|31-03-2014|43835.9
+94165|SCBs credit|561|Tripura||999991|Rs.million|A|31-03-2015|52628.7
+94165|SCBs credit|561|Tripura||999991|Rs.million|A|31-03-2016|62207.6
+94165|SCBs credit|561|Tripura||999991|Rs.million|A|31-03-2017|74822.6
+94165|SCBs credit|561|Tripura||999991|Rs.million|A|31-03-2018|91252.7
+94165|SCBs credit|561|Tripura||999991|Rs.million|A|31-03-2019|104630.7
+94165|SCBs credit|561|Tripura||999991|Rs.million|A|31-03-2020|113455.9
+94165|SCBs credit|561|Tripura||999991|Rs.million|A|31-03-2021|120935.0
+94165|SCBs credit|561|Tripura||999991|Rs.million|A|31-03-2022|135622.7
+94165|SCBs credit|215|Uttar Pradesh||999220|Rs.million|A|31-03-2014|2867918.7
+94165|SCBs credit|215|Uttar Pradesh||999220|Rs.million|A|31-03-2015|3291402.2
+94165|SCBs credit|215|Uttar Pradesh||999220|Rs.million|A|31-03-2016|3683091.4
+94165|SCBs credit|215|Uttar Pradesh||999220|Rs.million|A|31-03-2017|3805789.2
+94165|SCBs credit|215|Uttar Pradesh||999220|Rs.million|A|31-03-2018|4187308.0
+94165|SCBs credit|215|Uttar Pradesh||999220|Rs.million|A|31-03-2019|4702439.6
+94165|SCBs credit|215|Uttar Pradesh||999220|Rs.million|A|31-03-2020|5075496.2
+94165|SCBs credit|215|Uttar Pradesh||999220|Rs.million|A|31-03-2021|5651131.2
+94165|SCBs credit|215|Uttar Pradesh||999220|Rs.million|A|31-03-2022|6462842.3
+94165|SCBs credit|216|Uttar Pradesh||115605510|Rs.million|A||
+94165|SCBs credit|369|Uttarakhand||999553|Rs.million|A|31-03-2014|278649.7
+94165|SCBs credit|369|Uttarakhand||999553|Rs.million|A|31-03-2015|312293.5
+94165|SCBs credit|369|Uttarakhand||999553|Rs.million|A|31-03-2016|345805.3
+94165|SCBs credit|369|Uttarakhand||999553|Rs.million|A|31-03-2017|402730.7
+94165|SCBs credit|369|Uttarakhand||999553|Rs.million|A|31-03-2018|463211.7
+94165|SCBs credit|369|Uttarakhand||999553|Rs.million|A|31-03-2019|530357.1
+94165|SCBs credit|369|Uttarakhand||999553|Rs.million|A|31-03-2020|565510.2
+94165|SCBs credit|369|Uttarakhand||999553|Rs.million|A|31-03-2021|607396.0
+94165|SCBs credit|369|Uttarakhand||999553|Rs.million|A|31-03-2022|677508.9
+94165|SCBs credit|488|West Bengal||999811|Rs.million|A|31-03-2014|3069851.6
+94165|SCBs credit|488|West Bengal||999811|Rs.million|A|31-03-2015|3336930.5
+94165|SCBs credit|488|West Bengal||999811|Rs.million|A|31-03-2016|3495430.1
+94165|SCBs credit|488|West Bengal||999811|Rs.million|A|31-03-2017|3583976.3
+94165|SCBs credit|488|West Bengal||999811|Rs.million|A|31-03-2018|3867789.4
+94165|SCBs credit|488|West Bengal||999811|Rs.million|A|31-03-2019|4040653.2
+94165|SCBs credit|488|West Bengal||999811|Rs.million|A|31-03-2020|4292110.5
+94165|SCBs credit|488|West Bengal||999811|Rs.million|A|31-03-2021|4373484.6
+94165|SCBs credit|488|West Bengal||999811|Rs.million|A|31-03-2022|4794635.0
+94165|SCBs credit|679|Andaman & Nicobar Islands||1000258|Rs.million|A|31-03-2014|9978.6
+94165|SCBs credit|679|Andaman & Nicobar Islands||1000258|Rs.million|A|31-03-2015|11582.1
+94165|SCBs credit|679|Andaman & Nicobar Islands||1000258|Rs.million|A|31-03-2016|14084.5
+94165|SCBs credit|679|Andaman & Nicobar Islands||1000258|Rs.million|A|31-03-2017|17388.2
+94165|SCBs credit|679|Andaman & Nicobar Islands||1000258|Rs.million|A|31-03-2018|20020.1
+94165|SCBs credit|679|Andaman & Nicobar Islands||1000258|Rs.million|A|31-03-2019|21808.6
+94165|SCBs credit|679|Andaman & Nicobar Islands||1000258|Rs.million|A|31-03-2020|25605.7
+94165|SCBs credit|679|Andaman & Nicobar Islands||1000258|Rs.million|A|31-03-2021|28117.5
+94165|SCBs credit|679|Andaman & Nicobar Islands||1000258|Rs.million|A|31-03-2022|34620.0
+94165|SCBs credit|608|Arunachal Pradesh||1000099|Rs.million|A|31-03-2014|18662.8
+94165|SCBs credit|608|Arunachal Pradesh||1000099|Rs.million|A|31-03-2015|23335.3
+94165|SCBs credit|608|Arunachal Pradesh||1000099|Rs.million|A|31-03-2016|25382.6
+94165|SCBs credit|608|Arunachal Pradesh||1000099|Rs.million|A|31-03-2017|29730.6
+94165|SCBs credit|608|Arunachal Pradesh||1000099|Rs.million|A|31-03-2018|40687.8
+94165|SCBs credit|608|Arunachal Pradesh||1000099|Rs.million|A|31-03-2019|38687.7
+94165|SCBs credit|608|Arunachal Pradesh||1000099|Rs.million|A|31-03-2020|43382.2
+94165|SCBs credit|608|Arunachal Pradesh||1000099|Rs.million|A|31-03-2021|58972.5
+94165|SCBs credit|608|Arunachal Pradesh||1000099|Rs.million|A|31-03-2022|60532.5
+94165|SCBs credit|1300|Dadra & Nagar Haveli and Daman & Diu||179095558|Rs.million|A|31-03-2020|64577.2
+94165|SCBs credit|1300|Dadra & Nagar Haveli and Daman & Diu||179095558|Rs.million|A|31-03-2021|60664.8
+94165|SCBs credit|1300|Dadra & Nagar Haveli and Daman & Diu||179095558|Rs.million|A|31-03-2022|67655.2
+94165|SCBs credit|860|Daman & Diu||1000711|Rs.million|A|31-03-2014|10103.8
+94165|SCBs credit|860|Daman & Diu||1000711|Rs.million|A|31-03-2015|11186.9
+94165|SCBs credit|860|Daman & Diu||1000711|Rs.million|A|31-03-2016|10897.0
+94165|SCBs credit|860|Daman & Diu||1000711|Rs.million|A|31-03-2017|15120.5
+94165|SCBs credit|860|Daman & Diu||1000711|Rs.million|A|31-03-2018|15071.0
+94165|SCBs credit|860|Daman & Diu||1000711|Rs.million|A|31-03-2019|14895.9
+94165|SCBs credit|863|Dadra & Nagar Haveli||1000720|Rs.million|A|31-03-2014|11917.1
+94165|SCBs credit|863|Dadra & Nagar Haveli||1000720|Rs.million|A|31-03-2015|9842.3
+94165|SCBs credit|863|Dadra & Nagar Haveli||1000720|Rs.million|A|31-03-2016|12384.3
+94165|SCBs credit|863|Dadra & Nagar Haveli||1000720|Rs.million|A|31-03-2017|14899.7
+94165|SCBs credit|863|Dadra & Nagar Haveli||1000720|Rs.million|A|31-03-2018|20856.2
+94165|SCBs credit|863|Dadra & Nagar Haveli||1000720|Rs.million|A|31-03-2019|27094.3
+94165|SCBs credit|864|Lakshadweep||1000723|Rs.million|A|31-03-2014|614.1
+94165|SCBs credit|864|Lakshadweep||1000723|Rs.million|A|31-03-2015|694.0
+94165|SCBs credit|864|Lakshadweep||1000723|Rs.million|A|31-03-2016|791.2
+94165|SCBs credit|864|Lakshadweep||1000723|Rs.million|A|31-03-2017|806.0
+94165|SCBs credit|864|Lakshadweep||1000723|Rs.million|A|31-03-2018|713.1
+94165|SCBs credit|864|Lakshadweep||1000723|Rs.million|A|31-03-2019|898.3
+94165|SCBs credit|864|Lakshadweep||1000723|Rs.million|A|31-03-2020|966.3
+94165|SCBs credit|864|Lakshadweep||1000723|Rs.million|A|31-03-2021|973.8
+94165|SCBs credit|864|Lakshadweep||1000723|Rs.million|A|31-03-2022|1179.0
+94165|SCBs credit|592|Nagaland||1000063|Rs.million|A|31-03-2014|21285.1
+94165|SCBs credit|592|Nagaland||1000063|Rs.million|A|31-03-2015|23636.5
+94165|SCBs credit|592|Nagaland||1000063|Rs.million|A|31-03-2016|26836.0
+94165|SCBs credit|592|Nagaland||1000063|Rs.million|A|31-03-2017|31172.0
+94165|SCBs credit|592|Nagaland||1000063|Rs.million|A|31-03-2018|34876.1
+94165|SCBs credit|592|Nagaland||1000063|Rs.million|A|31-03-2019|39910.5
+94165|SCBs credit|592|Nagaland||1000063|Rs.million|A|31-03-2020|46440.4
+94165|SCBs credit|592|Nagaland||1000063|Rs.million|A|31-03-2021|72083.4
+94165|SCBs credit|592|Nagaland||1000063|Rs.million|A|31-03-2022|63809.4
+94165|SCBs credit|568|Mizoram||1000006|Rs.million|A|31-03-2014|19114.4
+94165|SCBs credit|568|Mizoram||1000006|Rs.million|A|31-03-2015|21206.9
+94165|SCBs credit|568|Mizoram||1000006|Rs.million|A|31-03-2016|24675.8
+94165|SCBs credit|568|Mizoram||1000006|Rs.million|A|31-03-2017|27096.1
+94165|SCBs credit|568|Mizoram||1000006|Rs.million|A|31-03-2018|32338.0
+94165|SCBs credit|568|Mizoram||1000006|Rs.million|A|31-03-2019|38366.7
+94165|SCBs credit|568|Mizoram||1000006|Rs.million|A|31-03-2020|41735.4
+94165|SCBs credit|568|Mizoram||1000006|Rs.million|A|31-03-2021|50633.0
+94165|SCBs credit|568|Mizoram||1000006|Rs.million|A|31-03-2022|59821.6
+94165|SCBs credit|634|Sikkim||1000153|Rs.million|A|31-03-2014|19192.7
+94165|SCBs credit|634|Sikkim||1000153|Rs.million|A|31-03-2015|21115.4
+94165|SCBs credit|634|Sikkim||1000153|Rs.million|A|31-03-2016|22371.3
+94165|SCBs credit|634|Sikkim||1000153|Rs.million|A|31-03-2017|21952.6
+94165|SCBs credit|634|Sikkim||1000153|Rs.million|A|31-03-2018|25324.6
+94165|SCBs credit|634|Sikkim||1000153|Rs.million|A|31-03-2019|29211.6
+94165|SCBs credit|634|Sikkim||1000153|Rs.million|A|31-03-2020|32155.2
+94165|SCBs credit|634|Sikkim||1000153|Rs.million|A|31-03-2021|38471.1
+94165|SCBs credit|634|Sikkim||1000153|Rs.million|A|31-03-2022|51817.3
+211745|Population|869|Andhra Pradesh||18909712|Numbers|A||
+211745|Population|870|Andhra Pradesh||7298405|Numbers|A||
+211745|Population|1064|Assam||84345143|Numbers|A||
+211745|Population|511|Assam||7298386|Numbers|A||
+211745|Population|390|Bihar||7298382|Numbers|A||
+211745|Population|391|Bihar||7298383|Numbers|A||
+211745|Population|389|Chandigarh||7298381|Numbers|A||
+211745|Population|834|Chhattisgarh||7298401|Numbers|A||
+211745|Population|771|Goa||7298398|Numbers|A||
+211745|Population|1060|Goa, Daman & Diu||84345146|Numbers|A||
+211745|Population|688|Gujarat||7298396|Numbers|A||
+211745|Population|179|Haryana||7298375|Numbers|A||
+211745|Population|132|Himachal Pradesh||7298373|Numbers|A||
+211745|Population|101|Jammu & Kashmir||7298372|Numbers|A||
+211745|Population|121|Jammu & Kashmir||200197131|Numbers|A||
+211745|Population|639|Jharkhand||7298394|Numbers|A||
+211745|Population|897|Karnataka||7298406|Numbers|A||
+211745|Population|937|Kerala||7298407|Numbers|A||
+211745|Population|774|Madhya Pradesh||7298399|Numbers|A||
+211745|Population|775|Madhya Pradesh||7298400|Numbers|A||
+211745|Population|723|Maharashtra||7298397|Numbers|A||
+211745|Population|579|Manipur||7298390|Numbers|A||
+211745|Population|549|Meghalaya||7298387|Numbers|A||
+211745|Population|1080|Meghalaya||84345141|Numbers|A||
+211745|Population|358|NCT of Delhi||7298379|Numbers|A||
+211745|Population|447|Odisha||7298384|Numbers|A||
+211745|Population|1004|Puducherry||7298409|Numbers|A||
+211745|Population|147|Punjab||7298374|Numbers|A||
+211745|Population|319|Rajasthan||7298378|Numbers|A||
+211745|Population|958|Tamil Nadu||7298408|Numbers|A||
+211745|Population|868|Telangana||130725833|Numbers|A||
+211745|Population|561|Tripura||7298388|Numbers|A||
+211745|Population|215|Uttar Pradesh||7298376|Numbers|A||
+211745|Population|216|Uttar Pradesh||7298377|Numbers|A||
+211745|Population|369|Uttarakhand||7298380|Numbers|A||
+211745|Population|488|West Bengal||7298385|Numbers|A||
+211745|Population|679|Andaman & Nicobar Islands||7298395|Numbers|A||
+211745|Population|608|Arunachal Pradesh||7298392|Numbers|A||
+211745|Population|1300|Dadra & Nagar Haveli and Daman & Diu||200197541|Numbers|A||
+211745|Population|860|Daman & Diu||7298402|Numbers|A||
+211745|Population|863|Dadra & Nagar Haveli||7298403|Numbers|A||
+211745|Population|864|Lakshadweep||7298404|Numbers|A||
+211745|Population|592|Nagaland||7298391|Numbers|A||
+211745|Population|568|Mizoram||7298389|Numbers|A||
+211745|Population|634|Sikkim||7298393|Numbers|A||
+2406070|GVA at basic prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964719|Rs.million|A|31-03-2014|4267220.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964719|Rs.million|A|31-03-2015|4877086.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964719|Rs.million|A|31-03-2016|5564206.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964719|Rs.million|A|31-03-2017|6245028.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964719|Rs.million|A|31-03-2018|7252718.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964719|Rs.million|A|31-03-2019|7981756.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964719|Rs.million|A|31-03-2020|8628478.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964719|Rs.million|A|31-03-2021|8855753.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964719|Rs.million|A|31-03-2022|10401865.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|870|Andhra Pradesh||||A||
+2406070|GVA at basic prices: Base year 2011-12: At current prices|1064|Assam||||A||
+2406070|GVA at basic prices: Base year 2011-12: At current prices|511|Assam||115964691|Rs.million|A|31-03-2014|1678502.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|511|Assam||115964691|Rs.million|A|31-03-2015|1842941.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|511|Assam||115964691|Rs.million|A|31-03-2016|2151744.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|511|Assam||115964691|Rs.million|A|31-03-2017|2373154.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|511|Assam||115964691|Rs.million|A|31-03-2018|2627057.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|511|Assam||115964691|Rs.million|A|31-03-2019|2821480.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|511|Assam||115964691|Rs.million|A|31-03-2020|3189711.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|511|Assam||115964691|Rs.million|A|31-03-2021|3219967.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|511|Assam||115964691|Rs.million|A|31-03-2022|3750339.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|390|Bihar||115964687|Rs.million|A|31-03-2014|3066854.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|390|Bihar||115964687|Rs.million|A|31-03-2015|3351990.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|390|Bihar||115964687|Rs.million|A|31-03-2016|3641549.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|390|Bihar||115964687|Rs.million|A|31-03-2017|4084566.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|390|Bihar||115964687|Rs.million|A|31-03-2018|4584150.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|390|Bihar||115964687|Rs.million|A|31-03-2019|5103514.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|390|Bihar||115964687|Rs.million|A|31-03-2020|5598049.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|390|Bihar||115964687|Rs.million|A|31-03-2021|5517757.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|390|Bihar||115964687|Rs.million|A|31-03-2022|6423296.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|391|Bihar||||A||
+2406070|GVA at basic prices: Base year 2011-12: At current prices|389|Chandigarh||115964685|Rs.million|A|31-03-2014|246133.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|389|Chandigarh||115964685|Rs.million|A|31-03-2015|263614.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|389|Chandigarh||115964685|Rs.million|A|31-03-2016|286682.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|389|Chandigarh||115964685|Rs.million|A|31-03-2017|317951.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|389|Chandigarh||115964685|Rs.million|A|31-03-2018|340841.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|389|Chandigarh||115964685|Rs.million|A|31-03-2019|373345.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|389|Chandigarh||115964685|Rs.million|A|31-03-2020|405271.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|389|Chandigarh||115964685|Rs.million|A|31-03-2021|369188.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|389|Chandigarh||115964685|Rs.million|A|31-03-2022|424874.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964715|Rs.million|A|31-03-2014|1954271.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964715|Rs.million|A|31-03-2015|2090676.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964715|Rs.million|A|31-03-2016|2137120.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964715|Rs.million|A|31-03-2017|2415459.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964715|Rs.million|A|31-03-2018|2597383.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964715|Rs.million|A|31-03-2019|3011060.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964715|Rs.million|A|31-03-2020|3249513.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964715|Rs.million|A|31-03-2021|3319574.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964715|Rs.million|A|31-03-2022|3854364.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|771|Goa||115964711|Rs.million|A|31-03-2014|320236.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|771|Goa||115964711|Rs.million|A|31-03-2015|431904.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|771|Goa||115964711|Rs.million|A|31-03-2016|495492.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|771|Goa||115964711|Rs.million|A|31-03-2017|568182.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|771|Goa||115964711|Rs.million|A|31-03-2018|614553.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|771|Goa||115964711|Rs.million|A|31-03-2019|644222.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|771|Goa||115964711|Rs.million|A|31-03-2020|678547.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|771|Goa||115964711|Rs.million|A|31-03-2021|690745.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|771|Goa||115964711|Rs.million|A|31-03-2022|751817.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|1060|Goa, Daman & Diu||||A||
+2406070|GVA at basic prices: Base year 2011-12: At current prices|688|Gujarat||115964707|Rs.million|A|31-03-2014|7210829.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|688|Gujarat||115964707|Rs.million|A|31-03-2015|8242332.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|688|Gujarat||115964707|Rs.million|A|31-03-2016|9152528.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|688|Gujarat||115964707|Rs.million|A|31-03-2017|10391555.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|688|Gujarat||115964707|Rs.million|A|31-03-2018|11728388.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|688|Gujarat||115964707|Rs.million|A|31-03-2019|13134342.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|688|Gujarat||115964707|Rs.million|A|31-03-2020|14401511.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|688|Gujarat||115964707|Rs.million|A|31-03-2021|14383492.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|688|Gujarat||115964707|Rs.million|A|31-03-2022|17036028.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|179|Haryana||115964675|Rs.million|A|31-03-2014|3675667.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|179|Haryana||115964675|Rs.million|A|31-03-2015|3999142.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|179|Haryana||115964675|Rs.million|A|31-03-2016|4393349.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|179|Haryana||115964675|Rs.million|A|31-03-2017|4914478.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|179|Haryana||115964675|Rs.million|A|31-03-2018|5452402.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|179|Haryana||115964675|Rs.million|A|31-03-2019|6238482.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|179|Haryana||115964675|Rs.million|A|31-03-2020|6511519.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|179|Haryana||115964675|Rs.million|A|31-03-2021|6452411.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|179|Haryana||115964675|Rs.million|A|31-03-2022|7609350.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964671|Rs.million|A|31-03-2014|893577.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964671|Rs.million|A|31-03-2015|973315.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964671|Rs.million|A|31-03-2016|1072567.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964671|Rs.million|A|31-03-2017|1174946.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964671|Rs.million|A|31-03-2018|1265991.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964671|Rs.million|A|31-03-2019|1389840.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964671|Rs.million|A|31-03-2020|1490416.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964671|Rs.million|A|31-03-2021|1457193.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964671|Rs.million|A|31-03-2022|1664423.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964669|Rs.million|A|31-03-2014|906237.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964669|Rs.million|A|31-03-2015|931190.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964669|Rs.million|A|31-03-2016|1106138.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964669|Rs.million|A|31-03-2017|1182004.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964669|Rs.million|A|31-03-2018|1295556.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964669|Rs.million|A|31-03-2019|1494550.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964669|Rs.million|A|31-03-2020|1538273.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964669|Rs.million|A|31-03-2021|1545116.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964669|Rs.million|A|31-03-2022|1830209.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|121|Jammu & Kashmir||||A||
+2406070|GVA at basic prices: Base year 2011-12: At current prices|639|Jharkhand||115964703|Rs.million|A|31-03-2014|1725323.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|639|Jharkhand||115964703|Rs.million|A|31-03-2015|2007957.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|639|Jharkhand||115964703|Rs.million|A|31-03-2016|1868752.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|639|Jharkhand||115964703|Rs.million|A|31-03-2017|2118711.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|639|Jharkhand||115964703|Rs.million|A|31-03-2018|2423928.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|639|Jharkhand||115964703|Rs.million|A|31-03-2019|2788236.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|639|Jharkhand||115964703|Rs.million|A|31-03-2020|2831959.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|639|Jharkhand||115964703|Rs.million|A|31-03-2021|2751964.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|639|Jharkhand||115964703|Rs.million|A|31-03-2022|3332161.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|897|Karnataka||115964721|Rs.million|A|31-03-2014|7403734.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|897|Karnataka||115964721|Rs.million|A|31-03-2015|8313159.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|897|Karnataka||115964721|Rs.million|A|31-03-2016|9426687.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|897|Karnataka||115964721|Rs.million|A|31-03-2017|10833944.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|897|Karnataka||115964721|Rs.million|A|31-03-2018|11991718.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|897|Karnataka||115964721|Rs.million|A|31-03-2019|13387188.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|897|Karnataka||115964721|Rs.million|A|31-03-2020|14721469.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|897|Karnataka||115964721|Rs.million|A|31-03-2021|14936679.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|897|Karnataka||115964721|Rs.million|A|31-03-2022|18016951.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|937|Kerala||115964723|Rs.million|A|31-03-2014|4291002.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|937|Kerala||115964723|Rs.million|A|31-03-2015|4718092.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|937|Kerala||115964723|Rs.million|A|31-03-2016|5091373.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|937|Kerala||115964723|Rs.million|A|31-03-2017|5702481.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|937|Kerala||115964723|Rs.million|A|31-03-2018|6348838.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|937|Kerala||115964723|Rs.million|A|31-03-2019|6961824.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|937|Kerala||115964723|Rs.million|A|31-03-2020|7301929.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|937|Kerala||115964723|Rs.million|A|31-03-2021|6857933.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|937|Kerala||115964723|Rs.million|A|31-03-2022|8281614.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964713|Rs.million|A|31-03-2014|4168096.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964713|Rs.million|A|31-03-2015|4562002.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964713|Rs.million|A|31-03-2016|5081750.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964713|Rs.million|A|31-03-2017|6076165.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964713|Rs.million|A|31-03-2018|6834556.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964713|Rs.million|A|31-03-2019|7835194.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964713|Rs.million|A|31-03-2020|8696084.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964713|Rs.million|A|31-03-2021|9094103.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964713|Rs.million|A|31-03-2022|10661601.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|775|Madhya Pradesh||||A||
+2406070|GVA at basic prices: Base year 2011-12: At current prices|723|Maharashtra||115964709|Rs.million|A|31-03-2014|14689676.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|723|Maharashtra||115964709|Rs.million|A|31-03-2015|15869370.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|723|Maharashtra||115964709|Rs.million|A|31-03-2016|17204876.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|723|Maharashtra||115964709|Rs.million|A|31-03-2017|19084847.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|723|Maharashtra||115964709|Rs.million|A|31-03-2018|20644318.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|723|Maharashtra||115964709|Rs.million|A|31-03-2019|22167682.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|723|Maharashtra||115964709|Rs.million|A|31-03-2020|23511354.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|723|Maharashtra||115964709|Rs.million|A|31-03-2021|23258376.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|723|Maharashtra||115964709|Rs.million|A|31-03-2022|27694348.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|579|Manipur||115964697|Rs.million|A|31-03-2014|158394.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|579|Manipur||115964697|Rs.million|A|31-03-2015|178663.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|579|Manipur||115964697|Rs.million|A|31-03-2016|190331.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|579|Manipur||115964697|Rs.million|A|31-03-2017|204383.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|579|Manipur||115964697|Rs.million|A|31-03-2018|250397.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|579|Manipur||115964697|Rs.million|A|31-03-2019|262823.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|579|Manipur||115964697|Rs.million|A|31-03-2020|284413.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|579|Manipur||115964697|Rs.million|A|31-03-2021|284451.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|579|Manipur||115964697|Rs.million|A|31-03-2022|345129.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|549|Meghalaya||115964693|Rs.million|A|31-03-2014|218442.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|549|Meghalaya||115964693|Rs.million|A|31-03-2015|220276.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|549|Meghalaya||115964693|Rs.million|A|31-03-2016|228722.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|549|Meghalaya||115964693|Rs.million|A|31-03-2017|246711.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|549|Meghalaya||115964693|Rs.million|A|31-03-2018|274116.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|549|Meghalaya||115964693|Rs.million|A|31-03-2019|300276.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|549|Meghalaya||115964693|Rs.million|A|31-03-2020|324440.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|549|Meghalaya||115964693|Rs.million|A|31-03-2021|313730.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|549|Meghalaya||115964693|Rs.million|A|31-03-2022|366584.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|1080|Meghalaya||||A||
+2406070|GVA at basic prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964681|Rs.million|A|31-03-2014|3859309.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964681|Rs.million|A|31-03-2015|4342411.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964681|Rs.million|A|31-03-2016|4787815.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964681|Rs.million|A|31-03-2017|5311753.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964681|Rs.million|A|31-03-2018|5868997.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964681|Rs.million|A|31-03-2019|6478390.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964681|Rs.million|A|31-03-2020|7043687.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964681|Rs.million|A|31-03-2021|6745507.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964681|Rs.million|A|31-03-2022|7928587.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|447|Odisha||115964689|Rs.million|A|31-03-2014|2804426.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|447|Odisha||115964689|Rs.million|A|31-03-2015|2952016.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|447|Odisha||115964689|Rs.million|A|31-03-2016|3045059.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|447|Odisha||115964689|Rs.million|A|31-03-2017|3549758.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|447|Odisha||115964689|Rs.million|A|31-03-2018|3908773.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|447|Odisha||115964689|Rs.million|A|31-03-2019|4478657.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|447|Odisha||115964689|Rs.million|A|31-03-2020|4744823.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|447|Odisha||115964689|Rs.million|A|31-03-2021|4808069.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|447|Odisha||115964689|Rs.million|A|31-03-2022|5931523.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|1004|Puducherry||115964727|Rs.million|A|31-03-2014|191890.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|1004|Puducherry||115964727|Rs.million|A|31-03-2015|197937.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|1004|Puducherry||115964727|Rs.million|A|31-03-2016|231760.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|1004|Puducherry||115964727|Rs.million|A|31-03-2017|257413.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|1004|Puducherry||115964727|Rs.million|A|31-03-2018|279892.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|1004|Puducherry||115964727|Rs.million|A|31-03-2019|312327.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|1004|Puducherry||115964727|Rs.million|A|31-03-2020|330084.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|1004|Puducherry||115964727|Rs.million|A|31-03-2021|326329.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|1004|Puducherry||115964727|Rs.million|A|31-03-2022|390924.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|147|Punjab||115964673|Rs.million|A|31-03-2014|3083290.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|147|Punjab||115964673|Rs.million|A|31-03-2015|3287793.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|147|Punjab||115964673|Rs.million|A|31-03-2016|3531553.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|147|Punjab||115964673|Rs.million|A|31-03-2017|3861887.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|147|Punjab||115964673|Rs.million|A|31-03-2018|4270103.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|147|Punjab||115964673|Rs.million|A|31-03-2019|4639881.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|147|Punjab||115964673|Rs.million|A|31-03-2020|4900949.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|147|Punjab||115964673|Rs.million|A|31-03-2021|4868387.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|147|Punjab||115964673|Rs.million|A|31-03-2022|5487541.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|319|Rajasthan||115964679|Rs.million|A|31-03-2014|5233488.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|319|Rajasthan||115964679|Rs.million|A|31-03-2015|5836457.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|319|Rajasthan||115964679|Rs.million|A|31-03-2016|6429604.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|319|Rajasthan||115964679|Rs.million|A|31-03-2017|7219718.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|319|Rajasthan||115964679|Rs.million|A|31-03-2018|7877153.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|319|Rajasthan||115964679|Rs.million|A|31-03-2019|8590909.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|319|Rajasthan||115964679|Rs.million|A|31-03-2020|9441973.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|319|Rajasthan||115964679|Rs.million|A|31-03-2021|9564920.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|319|Rajasthan||115964679|Rs.million|A|31-03-2022|11341145.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964725|Rs.million|A|31-03-2014|8877843.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964725|Rs.million|A|31-03-2015|9828431.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964725|Rs.million|A|31-03-2016|10764140.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964725|Rs.million|A|31-03-2017|11837988.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964725|Rs.million|A|31-03-2018|13305367.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964725|Rs.million|A|31-03-2019|14900417.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964725|Rs.million|A|31-03-2020|16013321.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964725|Rs.million|A|31-03-2021|16548205.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964725|Rs.million|A|31-03-2022|19152337.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|868|Telangana||115964717|Rs.million|A|31-03-2014|4217294.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|868|Telangana||115964717|Rs.million|A|31-03-2015|4664991.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|868|Telangana||115964717|Rs.million|A|31-03-2016|5303355.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|868|Telangana||115964717|Rs.million|A|31-03-2017|6001860.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|868|Telangana||115964717|Rs.million|A|31-03-2018|6801772.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|868|Telangana||115964717|Rs.million|A|31-03-2019|7769455.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|868|Telangana||115964717|Rs.million|A|31-03-2020|8697732.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|868|Telangana||115964717|Rs.million|A|31-03-2021|8686892.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|868|Telangana||115964717|Rs.million|A|31-03-2022|10333223.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|561|Tripura||126170148|Rs.million|A|31-03-2014|250394.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|561|Tripura||126170148|Rs.million|A|31-03-2015|288650.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|561|Tripura||126170148|Rs.million|A|31-03-2016|347232.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|561|Tripura||126170148|Rs.million|A|31-03-2017|377298.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|561|Tripura||126170148|Rs.million|A|31-03-2018|423526.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|561|Tripura||126170148|Rs.million|A|31-03-2019|479126.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|561|Tripura||126170148|Rs.million|A|31-03-2020|518763.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|561|Tripura||126170148|Rs.million|A|31-03-2021|511557.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|561|Tripura||126170148|Rs.million|A|31-03-2022|601344.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964677|Rs.million|A|31-03-2014|8855650.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964677|Rs.million|A|31-03-2015|9489934.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964677|Rs.million|A|31-03-2016|10576514.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964677|Rs.million|A|31-03-2017|11968999.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964677|Rs.million|A|31-03-2018|13236760.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964677|Rs.million|A|31-03-2019|14428537.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964677|Rs.million|A|31-03-2020|15552130.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964677|Rs.million|A|31-03-2021|15137938.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964677|Rs.million|A|31-03-2022|18072962.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|216|Uttar Pradesh||||A||
+2406070|GVA at basic prices: Base year 2011-12: At current prices|369|Uttarakhand||115964683|Rs.million|A|31-03-2014|1395039.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|369|Uttarakhand||115964683|Rs.million|A|31-03-2015|1504869.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|369|Uttarakhand||115964683|Rs.million|A|31-03-2016|1635950.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|369|Uttarakhand||115964683|Rs.million|A|31-03-2017|1798386.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|369|Uttarakhand||115964683|Rs.million|A|31-03-2018|2003674.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|369|Uttarakhand||115964683|Rs.million|A|31-03-2019|2133498.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|369|Uttarakhand||115964683|Rs.million|A|31-03-2020|2234358.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|369|Uttarakhand||115964683|Rs.million|A|31-03-2021|2226750.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|369|Uttarakhand||115964683|Rs.million|A|31-03-2022|2576294.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|488|West Bengal||133198344|Rs.million|A|31-03-2014|6430880.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|488|West Bengal||133198344|Rs.million|A|31-03-2015|6788003.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|488|West Bengal||133198344|Rs.million|A|31-03-2016|7501631.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|488|West Bengal||133198344|Rs.million|A|31-03-2017|8193398.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|488|West Bengal||133198344|Rs.million|A|31-03-2018|9136084.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|488|West Bengal||133198344|Rs.million|A|31-03-2019|10266829.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|488|West Bengal||133198344|Rs.million|A|31-03-2020|11026414.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|488|West Bengal||133198344|Rs.million|A|31-03-2021|10919809.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|488|West Bengal||133198344|Rs.million|A|31-03-2022|12994585.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964705|Rs.million|A|31-03-2014|50382.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964705|Rs.million|A|31-03-2015|55494.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964705|Rs.million|A|31-03-2016|60269.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964705|Rs.million|A|31-03-2017|67936.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964705|Rs.million|A|31-03-2018|75592.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964705|Rs.million|A|31-03-2019|83109.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964705|Rs.million|A|31-03-2020|89496.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964705|Rs.million|A|31-03-2021|86255.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964705|Rs.million|A|31-03-2022|96005.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964701|Rs.million|A|31-03-2014|142773.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964701|Rs.million|A|31-03-2015|175381.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964701|Rs.million|A|31-03-2016|179553.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964701|Rs.million|A|31-03-2017|190580.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964701|Rs.million|A|31-03-2018|215773.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964701|Rs.million|A|31-03-2019|239765.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964701|Rs.million|A|31-03-2020|283296.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964701|Rs.million|A|31-03-2021|285856.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964701|Rs.million|A|31-03-2022|333710.8
+2406070|GVA at basic prices: Base year 2011-12: At current prices|1300|Dadra & Nagar Haveli and Daman & Diu||||A||
+2406070|GVA at basic prices: Base year 2011-12: At current prices|860|Daman & Diu||||A||
+2406070|GVA at basic prices: Base year 2011-12: At current prices|863|Dadra & Nagar Haveli||||A||
+2406070|GVA at basic prices: Base year 2011-12: At current prices|864|Lakshadweep||||A||
+2406070|GVA at basic prices: Base year 2011-12: At current prices|592|Nagaland||115964699|Rs.million|A|31-03-2014|164206.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|592|Nagaland||115964699|Rs.million|A|31-03-2015|182439.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|592|Nagaland||115964699|Rs.million|A|31-03-2016|192723.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|592|Nagaland||115964699|Rs.million|A|31-03-2017|212460.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|592|Nagaland||115964699|Rs.million|A|31-03-2018|237597.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|592|Nagaland||115964699|Rs.million|A|31-03-2019|259261.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|592|Nagaland||115964699|Rs.million|A|31-03-2020|286225.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|592|Nagaland||115964699|Rs.million|A|31-03-2021|286455.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|592|Nagaland||115964699|Rs.million|A|31-03-2022|306032.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|568|Mizoram||115964695|Rs.million|A|31-03-2014|101340.7
+2406070|GVA at basic prices: Base year 2011-12: At current prices|568|Mizoram||115964695|Rs.million|A|31-03-2015|133439.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|568|Mizoram||115964695|Rs.million|A|31-03-2016|148142.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|568|Mizoram||115964695|Rs.million|A|31-03-2017|166888.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|568|Mizoram||115964695|Rs.million|A|31-03-2018|188080.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|568|Mizoram||115964695|Rs.million|A|31-03-2019|210597.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|568|Mizoram||115964695|Rs.million|A|31-03-2020|241325.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|568|Mizoram||115964695|Rs.million|A|31-03-2021|233017.1
+2406070|GVA at basic prices: Base year 2011-12: At current prices|568|Mizoram||115964695|Rs.million|A|31-03-2022|270339.4
+2406070|GVA at basic prices: Base year 2011-12: At current prices|634|Sikkim||126170150|Rs.million|A|31-03-2014|133169.0
+2406070|GVA at basic prices: Base year 2011-12: At current prices|634|Sikkim||126170150|Rs.million|A|31-03-2015|148451.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|634|Sikkim||126170150|Rs.million|A|31-03-2016|172427.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|634|Sikkim||126170150|Rs.million|A|31-03-2017|195961.9
+2406070|GVA at basic prices: Base year 2011-12: At current prices|634|Sikkim||126170150|Rs.million|A|31-03-2018|239913.5
+2406070|GVA at basic prices: Base year 2011-12: At current prices|634|Sikkim||126170150|Rs.million|A|31-03-2019|269545.2
+2406070|GVA at basic prices: Base year 2011-12: At current prices|634|Sikkim||126170150|Rs.million|A|31-03-2020|299538.3
+2406070|GVA at basic prices: Base year 2011-12: At current prices|634|Sikkim||126170150|Rs.million|A|31-03-2021|316001.6
+2406070|GVA at basic prices: Base year 2011-12: At current prices|634|Sikkim||126170150|Rs.million|A|31-03-2022|358251.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|869|Andhra Pradesh||116518596|Rupees|A|31-03-2014|93120.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|869|Andhra Pradesh||116518596|Rupees|A|31-03-2015|104679.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|869|Andhra Pradesh||116518596|Rupees|A|31-03-2016|119777.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|869|Andhra Pradesh||116518596|Rupees|A|31-03-2017|134878.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|869|Andhra Pradesh||116518596|Rupees|A|31-03-2018|154020.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|869|Andhra Pradesh||116518596|Rupees|A|31-03-2019|170180.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|869|Andhra Pradesh||116518596|Rupees|A|31-03-2020|179280.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|869|Andhra Pradesh||116518596|Rupees|A|31-03-2021|184188.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|869|Andhra Pradesh||116518596|Rupees|A|31-03-2022|216998.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|870|Andhra Pradesh||||A||
+2410747|Per capita GDP: Base year 2011-12: At current prices|1064|Assam||||A||
+2410747|Per capita GDP: Base year 2011-12: At current prices|511|Assam||116518568|Rupees|A|31-03-2014|55097.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|511|Assam||116518568|Rupees|A|31-03-2015|59894.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|511|Assam||116518568|Rupees|A|31-03-2016|68867.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|511|Assam||116518568|Rupees|A|31-03-2017|75869.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|511|Assam||116518568|Rupees|A|31-03-2018|83870.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|511|Assam||116518568|Rupees|A|31-03-2019|90616.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|511|Assam||116518568|Rupees|A|31-03-2020|100501.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|511|Assam||116518568|Rupees|A|31-03-2021|101357.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|511|Assam||116518568|Rupees|A|31-03-2022|116986.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|390|Bihar||116518564|Rupees|A|31-03-2014|29250.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|390|Bihar||116518564|Rupees|A|31-03-2015|31142.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|390|Bihar||116518564|Rupees|A|31-03-2016|33218.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|390|Bihar||116518564|Rupees|A|31-03-2017|37052.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|390|Bihar||116518564|Rupees|A|31-03-2018|40065.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|390|Bihar||116518564|Rupees|A|31-03-2019|44450.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|390|Bihar||116518564|Rupees|A|31-03-2020|48263.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|390|Bihar||116518564|Rupees|A|31-03-2021|46367.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|390|Bihar||116518564|Rupees|A|31-03-2022|52378.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|391|Bihar||||A||
+2410747|Per capita GDP: Base year 2011-12: At current prices|389|Chandigarh||116518562|Rupees|A|31-03-2014|226269.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|389|Chandigarh||116518562|Rupees|A|31-03-2015|238531.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|389|Chandigarh||116518562|Rupees|A|31-03-2016|259071.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|389|Chandigarh||116518562|Rupees|A|31-03-2017|283202.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|389|Chandigarh||116518562|Rupees|A|31-03-2018|313583.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|389|Chandigarh||116518562|Rupees|A|31-03-2019|342189.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|389|Chandigarh||116518562|Rupees|A|31-03-2020|365808.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|389|Chandigarh||116518562|Rupees|A|31-03-2021|328136.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|389|Chandigarh||116518562|Rupees|A|31-03-2022|375598.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|834|Chhattisgarh||116518592|Rupees|A|31-03-2014|77686.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|834|Chhattisgarh||116518592|Rupees|A|31-03-2015|81735.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|834|Chhattisgarh||116518592|Rupees|A|31-03-2016|81907.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|834|Chhattisgarh||116518592|Rupees|A|31-03-2017|94082.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|834|Chhattisgarh||116518592|Rupees|A|31-03-2018|99611.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|834|Chhattisgarh||116518592|Rupees|A|31-03-2019|113413.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|834|Chhattisgarh||116518592|Rupees|A|31-03-2020|119057.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|834|Chhattisgarh||116518592|Rupees|A|31-03-2021|118553.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|834|Chhattisgarh||116518592|Rupees|A|31-03-2022|136872.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|771|Goa||116518588|Rupees|A|31-03-2014|241893.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|771|Goa||116518588|Rupees|A|31-03-2015|319827.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|771|Goa||116518588|Rupees|A|31-03-2016|365806.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|771|Goa||116518588|Rupees|A|31-03-2017|415411.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|771|Goa||116518588|Rupees|A|31-03-2018|454171.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|771|Goa||116518588|Rupees|A|31-03-2019|467795.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|771|Goa||116518588|Rupees|A|31-03-2020|485644.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|771|Goa||116518588|Rupees|A|31-03-2021|486851.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|771|Goa||116518588|Rupees|A|31-03-2022|527145.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|1060|Goa, Daman & Diu||||A||
+2410747|Per capita GDP: Base year 2011-12: At current prices|688|Gujarat||116518584|Rupees|A|31-03-2014|129157.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|688|Gujarat||116518584|Rupees|A|31-03-2015|145484.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|688|Gujarat||116518584|Rupees|A|31-03-2016|160284.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|688|Gujarat||116518584|Rupees|A|31-03-2017|179427.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|688|Gujarat||116518584|Rupees|A|31-03-2018|201649.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|688|Gujarat||116518584|Rupees|A|31-03-2019|223430.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|688|Gujarat||116518584|Rupees|A|31-03-2020|238978.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|688|Gujarat||116518584|Rupees|A|31-03-2021|232861.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|688|Gujarat||116518584|Rupees|A|31-03-2022|275586.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|179|Haryana||116518552|Rupees|A|31-03-2014|151870.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|179|Haryana||116518552|Rupees|A|31-03-2015|163958.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|179|Haryana||116518552|Rupees|A|31-03-2016|183248.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|179|Haryana||116518552|Rupees|A|31-03-2017|204727.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|179|Haryana||116518552|Rupees|A|31-03-2018|229704.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|179|Haryana||116518552|Rupees|A|31-03-2019|247798.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|179|Haryana||116518552|Rupees|A|31-03-2020|255958.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|179|Haryana||116518552|Rupees|A|31-03-2021|255713.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|179|Haryana||116518552|Rupees|A|31-03-2022|295923.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|132|Himachal Pradesh||116518548|Rupees|A|31-03-2014|134934.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|132|Himachal Pradesh||116518548|Rupees|A|31-03-2015|146488.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|132|Himachal Pradesh||116518548|Rupees|A|31-03-2016|159842.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|132|Himachal Pradesh||116518548|Rupees|A|31-03-2017|174249.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|132|Himachal Pradesh||116518548|Rupees|A|31-03-2018|191554.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|132|Himachal Pradesh||116518548|Rupees|A|31-03-2019|203823.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|132|Himachal Pradesh||116518548|Rupees|A|31-03-2020|217229.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|132|Himachal Pradesh||116518548|Rupees|A|31-03-2021|210538.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|132|Himachal Pradesh||116518548|Rupees|A|31-03-2022|237720.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|101|Jammu & Kashmir||116518546|Rupees|A|31-03-2014|74280.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|101|Jammu & Kashmir||116518546|Rupees|A|31-03-2015|75655.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|101|Jammu & Kashmir||116518546|Rupees|A|31-03-2016|89236.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|101|Jammu & Kashmir||116518546|Rupees|A|31-03-2017|94267.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|101|Jammu & Kashmir||116518546|Rupees|A|31-03-2018|104666.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|101|Jammu & Kashmir||116518546|Rupees|A|31-03-2019|118828.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|101|Jammu & Kashmir||116518546|Rupees|A|31-03-2020|123730.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|101|Jammu & Kashmir||116518546|Rupees|A|31-03-2021|125440.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|101|Jammu & Kashmir||116518546|Rupees|A|31-03-2022|148471.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|121|Jammu & Kashmir||||A||
+2410747|Per capita GDP: Base year 2011-12: At current prices|639|Jharkhand||116518580|Rupees|A|31-03-2014|54812.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|639|Jharkhand||116518580|Rupees|A|31-03-2015|62496.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|639|Jharkhand||116518580|Rupees|A|31-03-2016|58138.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|639|Jharkhand||116518580|Rupees|A|31-03-2017|65405.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|639|Jharkhand||116518580|Rupees|A|31-03-2018|73627.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|639|Jharkhand||116518580|Rupees|A|31-03-2019|82220.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|639|Jharkhand||116518580|Rupees|A|31-03-2020|82276.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|639|Jharkhand||116518580|Rupees|A|31-03-2021|77561.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|639|Jharkhand||116518580|Rupees|A|31-03-2022|92581.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|897|Karnataka||116518598|Rupees|A|31-03-2014|129986.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|897|Karnataka||116518598|Rupees|A|31-03-2015|143902.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|897|Karnataka||116518598|Rupees|A|31-03-2016|162796.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|897|Karnataka||116518598|Rupees|A|31-03-2017|186072.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|897|Karnataka||116518598|Rupees|A|31-03-2018|204934.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|897|Karnataka||116518598|Rupees|A|31-03-2019|225585.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|897|Karnataka||116518598|Rupees|A|31-03-2020|243727.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|897|Karnataka||116518598|Rupees|A|31-03-2021|243906.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|897|Karnataka||116518598|Rupees|A|31-03-2022|292542.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|937|Kerala||116518600|Rupees|A|31-03-2014|137515.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|937|Kerala||116518600|Rupees|A|31-03-2015|150823.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|937|Kerala||116518600|Rupees|A|31-03-2016|164554.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|937|Kerala||116518600|Rupees|A|31-03-2017|184978.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|937|Kerala||116518600|Rupees|A|31-03-2018|203399.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|937|Kerala||116518600|Rupees|A|31-03-2019|227397.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|937|Kerala||116518600|Rupees|A|31-03-2020|233337.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|937|Kerala||116518600|Rupees|A|31-03-2021|220400.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|937|Kerala||116518600|Rupees|A|31-03-2022|264971.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|774|Madhya Pradesh||116518590|Rupees|A|31-03-2014|57964.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|774|Madhya Pradesh||116518590|Rupees|A|31-03-2015|62285.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|774|Madhya Pradesh||116518590|Rupees|A|31-03-2016|69109.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|774|Madhya Pradesh||116518590|Rupees|A|31-03-2017|81767.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|774|Madhya Pradesh||116518590|Rupees|A|31-03-2018|90094.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|774|Madhya Pradesh||116518590|Rupees|A|31-03-2019|101497.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|774|Madhya Pradesh||116518590|Rupees|A|31-03-2020|111927.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|774|Madhya Pradesh||116518590|Rupees|A|31-03-2021|114426.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|774|Madhya Pradesh||116518590|Rupees|A|31-03-2022|133477.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|775|Madhya Pradesh||||A||
+2410747|Per capita GDP: Base year 2011-12: At current prices|723|Maharashtra||116518586|Rupees|A|31-03-2014|142633.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|723|Maharashtra||116518586|Rupees|A|31-03-2015|152158.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|723|Maharashtra||116518586|Rupees|A|31-03-2016|166351.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|723|Maharashtra||116518586|Rupees|A|31-03-2017|184113.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|723|Maharashtra||116518586|Rupees|A|31-03-2018|195194.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|723|Maharashtra||116518586|Rupees|A|31-03-2019|207833.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|723|Maharashtra||116518586|Rupees|A|31-03-2020|216364.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|723|Maharashtra||116518586|Rupees|A|31-03-2021|211965.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|723|Maharashtra||116518586|Rupees|A|31-03-2022|248631.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|579|Manipur||116518574|Rupees|A|31-03-2014|53565.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|579|Manipur||116518574|Rupees|A|31-03-2015|58721.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|579|Manipur||116518574|Rupees|A|31-03-2016|61905.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|579|Manipur||116518574|Rupees|A|31-03-2017|66050.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|579|Manipur||116518574|Rupees|A|31-03-2018|78284.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|579|Manipur||116518574|Rupees|A|31-03-2019|81364.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|579|Manipur||116518574|Rupees|A|31-03-2020|86680.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|579|Manipur||116518574|Rupees|A|31-03-2021|84730.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|579|Manipur||116518574|Rupees|A|31-03-2022|101920.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|549|Meghalaya||116518570|Rupees|A|31-03-2014|73168.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|549|Meghalaya||116518570|Rupees|A|31-03-2015|72562.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|549|Meghalaya||116518570|Rupees|A|31-03-2016|76788.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|549|Meghalaya||116518570|Rupees|A|31-03-2017|82127.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|549|Meghalaya||116518570|Rupees|A|31-03-2018|86458.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|549|Meghalaya||116518570|Rupees|A|31-03-2019|92273.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|549|Meghalaya||116518570|Rupees|A|31-03-2020|97614.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|549|Meghalaya||116518570|Rupees|A|31-03-2021|102259.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|549|Meghalaya||116518570|Rupees|A|31-03-2022|116365.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|1080|Meghalaya||||A||
+2410747|Per capita GDP: Base year 2011-12: At current prices|358|NCT of Delhi||116518558|Rupees|A|31-03-2014|249921.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|358|NCT of Delhi||116518558|Rupees|A|31-03-2015|272739.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|358|NCT of Delhi||116518558|Rupees|A|31-03-2016|297410.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|358|NCT of Delhi||116518558|Rupees|A|31-03-2017|326005.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|358|NCT of Delhi||116518558|Rupees|A|31-03-2018|351662.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|358|NCT of Delhi||116518558|Rupees|A|31-03-2019|375656.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|358|NCT of Delhi||116518558|Rupees|A|31-03-2020|395763.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|358|NCT of Delhi||116518558|Rupees|A|31-03-2021|373976.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|358|NCT of Delhi||116518558|Rupees|A|31-03-2022|434903.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|447|Odisha||116518566|Rupees|A|31-03-2014|68941.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|447|Odisha||116518566|Rupees|A|31-03-2015|72406.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|447|Odisha||116518566|Rupees|A|31-03-2016|75011.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|447|Odisha||116518566|Rupees|A|31-03-2017|88934.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|447|Odisha||116518566|Rupees|A|31-03-2018|98934.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|447|Odisha||116518566|Rupees|A|31-03-2019|111148.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|447|Odisha||116518566|Rupees|A|31-03-2020|118903.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|447|Odisha||116518566|Rupees|A|31-03-2021|118578.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|447|Odisha||116518566|Rupees|A|31-03-2022|146273.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|1004|Puducherry||116518604|Rupees|A|31-03-2014|163821.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|1004|Puducherry||116518604|Rupees|A|31-03-2015|164653.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|1004|Puducherry||116518604|Rupees|A|31-03-2016|189172.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|1004|Puducherry||116518604|Rupees|A|31-03-2017|204655.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|1004|Puducherry||116518604|Rupees|A|31-03-2018|216501.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|1004|Puducherry||116518604|Rupees|A|31-03-2019|224217.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|1004|Puducherry||116518604|Rupees|A|31-03-2020|240407.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|1004|Puducherry||116518604|Rupees|A|31-03-2021|231958.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|1004|Puducherry||116518604|Rupees|A|31-03-2022|277701.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|147|Punjab||116518550|Rupees|A|31-03-2014|115764.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|147|Punjab||116518550|Rupees|A|31-03-2015|122165.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|147|Punjab||116518550|Rupees|A|31-03-2016|132467.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|147|Punjab||116518550|Rupees|A|31-03-2017|143123.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|147|Punjab||116518550|Rupees|A|31-03-2018|155840.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|147|Punjab||116518550|Rupees|A|31-03-2019|167378.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|147|Punjab||116518550|Rupees|A|31-03-2020|173119.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|147|Punjab||116518550|Rupees|A|31-03-2021|172097.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|147|Punjab||116518550|Rupees|A|31-03-2022|192918.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|319|Rajasthan||116518556|Rupees|A|31-03-2014|77463.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|319|Rajasthan||116518556|Rupees|A|31-03-2015|85315.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|319|Rajasthan||116518556|Rupees|A|31-03-2016|93093.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|319|Rajasthan||116518556|Rupees|A|31-03-2017|102422.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|319|Rajasthan||116518556|Rupees|A|31-03-2018|109780.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|319|Rajasthan||116518556|Rupees|A|31-03-2019|118619.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|319|Rajasthan||116518556|Rupees|A|31-03-2020|128277.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|319|Rajasthan||116518556|Rupees|A|31-03-2021|129270.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|319|Rajasthan||116518556|Rupees|A|31-03-2022|152675.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|958|Tamil Nadu||116518602|Rupees|A|31-03-2014|131893.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|958|Tamil Nadu||116518602|Rupees|A|31-03-2015|145093.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|958|Tamil Nadu||116518602|Rupees|A|31-03-2016|158072.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|958|Tamil Nadu||116518602|Rupees|A|31-03-2017|174054.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|958|Tamil Nadu||116518602|Rupees|A|31-03-2018|194833.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|958|Tamil Nadu||116518602|Rupees|A|31-03-2019|215784.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|958|Tamil Nadu||116518602|Rupees|A|31-03-2020|229657.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|958|Tamil Nadu||116518602|Rupees|A|31-03-2021|234486.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|958|Tamil Nadu||116518602|Rupees|A|31-03-2022|270629.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|868|Telangana||116518594|Rupees|A|31-03-2014|124057.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|868|Telangana||116518594|Rupees|A|31-03-2015|137586.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|868|Telangana||116518594|Rupees|A|31-03-2016|155626.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|868|Telangana||116518594|Rupees|A|31-03-2017|175530.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|868|Telangana||116518594|Rupees|A|31-03-2018|198001.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|868|Telangana||116518594|Rupees|A|31-03-2019|231156.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|868|Telangana||116518594|Rupees|A|31-03-2020|254402.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|868|Telangana||116518594|Rupees|A|31-03-2021|250755.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|868|Telangana||116518594|Rupees|A|31-03-2022|298526.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|561|Tripura||126177005|Rupees|A|31-03-2014|67813.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|561|Tripura||126177005|Rupees|A|31-03-2015|77434.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|561|Tripura||126177005|Rupees|A|31-03-2016|93247.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|561|Tripura||126177005|Rupees|A|31-03-2017|101385.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|561|Tripura||126177005|Rupees|A|31-03-2018|111151.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|561|Tripura||126177005|Rupees|A|31-03-2019|125404.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|561|Tripura||126177005|Rupees|A|31-03-2020|134972.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|561|Tripura||126177005|Rupees|A|31-03-2021|132076.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|561|Tripura||126177005|Rupees|A|31-03-2022|152935.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|215|Uttar Pradesh||116518554|Rupees|A|31-03-2014|45250.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|215|Uttar Pradesh||116518554|Rupees|A|31-03-2015|47953.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|215|Uttar Pradesh||116518554|Rupees|A|31-03-2016|53112.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|215|Uttar Pradesh||116518554|Rupees|A|31-03-2017|59249.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|215|Uttar Pradesh||116518554|Rupees|A|31-03-2018|65203.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|215|Uttar Pradesh||116518554|Rupees|A|31-03-2019|70564.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|215|Uttar Pradesh||116518554|Rupees|A|31-03-2020|74678.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|215|Uttar Pradesh||116518554|Rupees|A|31-03-2021|71183.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|215|Uttar Pradesh||116518554|Rupees|A|31-03-2022|84139.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|216|Uttar Pradesh||||A||
+2410747|Per capita GDP: Base year 2011-12: At current prices|369|Uttarakhand||116518560|Rupees|A|31-03-2014|142901.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|369|Uttarakhand||116518560|Rupees|A|31-03-2015|152805.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|369|Uttarakhand||116518560|Rupees|A|31-03-2016|165588.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|369|Uttarakhand||116518560|Rupees|A|31-03-2017|180170.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|369|Uttarakhand||116518560|Rupees|A|31-03-2018|200950.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|369|Uttarakhand||116518560|Rupees|A|31-03-2019|207714.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|369|Uttarakhand||116518560|Rupees|A|31-03-2020|213289.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|369|Uttarakhand||116518560|Rupees|A|31-03-2021|208760.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|369|Uttarakhand||116518560|Rupees|A|31-03-2022|237320.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|488|West Bengal||133198468|Rupees|A|31-03-2014|72272.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|488|West Bengal||133198468|Rupees|A|31-03-2015|75916.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|488|West Bengal||133198468|Rupees|A|31-03-2016|83456.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|488|West Bengal||133198468|Rupees|A|31-03-2017|90425.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|488|West Bengal||133198468|Rupees|A|31-03-2018|100014.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|488|West Bengal||133198468|Rupees|A|31-03-2019|114021.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|488|West Bengal||133198468|Rupees|A|31-03-2020|121229.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|488|West Bengal||133198468|Rupees|A|31-03-2021|118096.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|488|West Bengal||133198468|Rupees|A|31-03-2022|138604.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||116518582|Rupees|A|31-03-2014|130119.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||116518582|Rupees|A|31-03-2015|140802.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||116518582|Rupees|A|31-03-2016|154264.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||116518582|Rupees|A|31-03-2017|173940.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||116518582|Rupees|A|31-03-2018|199757.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||116518582|Rupees|A|31-03-2019|227353.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||116518582|Rupees|A|31-03-2020|245351.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||116518582|Rupees|A|31-03-2021|232760.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||116518582|Rupees|A|31-03-2022|257973.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|608|Arunachal Pradesh||116518578|Rupees|A|31-03-2014|102611.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|608|Arunachal Pradesh||116518578|Rupees|A|31-03-2015|124978.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|608|Arunachal Pradesh||116518578|Rupees|A|31-03-2016|127473.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|608|Arunachal Pradesh||116518578|Rupees|A|31-03-2017|135665.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|608|Arunachal Pradesh||116518578|Rupees|A|31-03-2018|151754.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|608|Arunachal Pradesh||116518578|Rupees|A|31-03-2019|169350.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|608|Arunachal Pradesh||116518578|Rupees|A|31-03-2020|198700.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|608|Arunachal Pradesh||116518578|Rupees|A|31-03-2021|200182.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|608|Arunachal Pradesh||116518578|Rupees|A|31-03-2022|228074.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|1300|Dadra & Nagar Haveli and Daman & Diu||||A||
+2410747|Per capita GDP: Base year 2011-12: At current prices|860|Daman & Diu||||A||
+2410747|Per capita GDP: Base year 2011-12: At current prices|863|Dadra & Nagar Haveli||||A||
+2410747|Per capita GDP: Base year 2011-12: At current prices|864|Lakshadweep||||A||
+2410747|Per capita GDP: Base year 2011-12: At current prices|592|Nagaland||116518576|Rupees|A|31-03-2014|81670.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|592|Nagaland||116518576|Rupees|A|31-03-2015|89541.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|592|Nagaland||116518576|Rupees|A|31-03-2016|94000.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|592|Nagaland||116518576|Rupees|A|31-03-2017|103489.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|592|Nagaland||116518576|Rupees|A|31-03-2018|114952.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|592|Nagaland||116518576|Rupees|A|31-03-2019|123728.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|592|Nagaland||116518576|Rupees|A|31-03-2020|137509.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|592|Nagaland||116518576|Rupees|A|31-03-2021|136093.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|592|Nagaland||116518576|Rupees|A|31-03-2022|144204.9
+2410747|Per capita GDP: Base year 2011-12: At current prices|568|Mizoram||116518572|Rupees|A|31-03-2014|88843.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|568|Mizoram||116518572|Rupees|A|31-03-2015|115366.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|568|Mizoram||116518572|Rupees|A|31-03-2016|127003.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|568|Mizoram||116518572|Rupees|A|31-03-2017|141613.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|568|Mizoram||116518572|Rupees|A|31-03-2018|164981.5
+2410747|Per capita GDP: Base year 2011-12: At current prices|568|Mizoram||116518572|Rupees|A|31-03-2019|184756.2
+2410747|Per capita GDP: Base year 2011-12: At current prices|568|Mizoram||116518572|Rupees|A|31-03-2020|208594.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|568|Mizoram||116518572|Rupees|A|31-03-2021|197710.3
+2410747|Per capita GDP: Base year 2011-12: At current prices|568|Mizoram||116518572|Rupees|A|31-03-2022|227874.7
+2410747|Per capita GDP: Base year 2011-12: At current prices|634|Sikkim||126177007|Rupees|A|31-03-2014|221083.0
+2410747|Per capita GDP: Base year 2011-12: At current prices|634|Sikkim||126177007|Rupees|A|31-03-2015|243392.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|634|Sikkim||126177007|Rupees|A|31-03-2016|281780.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|634|Sikkim||126177007|Rupees|A|31-03-2017|319740.1
+2410747|Per capita GDP: Base year 2011-12: At current prices|634|Sikkim||126177007|Rupees|A|31-03-2018|397107.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|634|Sikkim||126177007|Rupees|A|31-03-2019|430339.8
+2410747|Per capita GDP: Base year 2011-12: At current prices|634|Sikkim||126177007|Rupees|A|31-03-2020|471379.4
+2410747|Per capita GDP: Base year 2011-12: At current prices|634|Sikkim||126177007|Rupees|A|31-03-2021|490606.6
+2410747|Per capita GDP: Base year 2011-12: At current prices|634|Sikkim||126177007|Rupees|A|31-03-2022|552314.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964543|Rs.million|A|31-03-2014|4642720.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964543|Rs.million|A|31-03-2015|5249756.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964543|Rs.million|A|31-03-2016|6042286.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964543|Rs.million|A|31-03-2017|6844158.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964543|Rs.million|A|31-03-2018|7861354.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964543|Rs.million|A|31-03-2019|8737211.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964543|Rs.million|A|31-03-2020|9258391.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964543|Rs.million|A|31-03-2021|9567877.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|869|Andhra Pradesh||115964543|Rs.million|A|31-03-2022|11338365.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|870|Andhra Pradesh||||A||
+2406064|GDP at market prices: Base year 2011-12: At current prices|1064|Assam||||A||
+2406064|GDP at market prices: Base year 2011-12: At current prices|511|Assam||115964515|Rs.million|A|31-03-2014|1777452.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|511|Assam||115964515|Rs.million|A|31-03-2015|1957231.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|511|Assam||115964515|Rs.million|A|31-03-2016|2279588.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|511|Assam||115964515|Rs.million|A|31-03-2017|2543823.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|511|Assam||115964515|Rs.million|A|31-03-2018|2831648.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|511|Assam||115964515|Rs.million|A|31-03-2019|3093363.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|511|Assam||115964515|Rs.million|A|31-03-2020|3468506.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|511|Assam||115964515|Rs.million|A|31-03-2021|3536054.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|511|Assam||115964515|Rs.million|A|31-03-2022|4126118.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|390|Bihar||115964511|Rs.million|A|31-03-2014|3171013.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|390|Bihar||115964511|Rs.million|A|31-03-2015|3429509.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|390|Bihar||115964511|Rs.million|A|31-03-2016|3716017.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|390|Bihar||115964511|Rs.million|A|31-03-2017|4210515.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|390|Bihar||115964511|Rs.million|A|31-03-2018|4687463.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|390|Bihar||115964511|Rs.million|A|31-03-2019|5279758.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|390|Bihar||115964511|Rs.million|A|31-03-2020|5818554.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|390|Bihar||115964511|Rs.million|A|31-03-2021|5672625.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|390|Bihar||115964511|Rs.million|A|31-03-2022|6503024.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|391|Bihar||||A||
+2406064|GDP at market prices: Base year 2011-12: At current prices|389|Chandigarh||115964509|Rs.million|A|31-03-2014|248217.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|389|Chandigarh||115964509|Rs.million|A|31-03-2015|265485.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|389|Chandigarh||115964509|Rs.million|A|31-03-2016|292750.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|389|Chandigarh||115964509|Rs.million|A|31-03-2017|324266.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|389|Chandigarh||115964509|Rs.million|A|31-03-2018|363443.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|389|Chandigarh||115964509|Rs.million|A|31-03-2019|401388.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|389|Chandigarh||115964509|Rs.million|A|31-03-2020|434214.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|389|Chandigarh||115964509|Rs.million|A|31-03-2021|394420.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|389|Chandigarh||115964509|Rs.million|A|31-03-2022|456352.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964539|Rs.million|A|31-03-2014|2068331.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964539|Rs.million|A|31-03-2015|2211181.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964539|Rs.million|A|31-03-2016|2251629.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964539|Rs.million|A|31-03-2017|2628017.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964539|Rs.million|A|31-03-2018|2827374.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964539|Rs.million|A|31-03-2019|3271066.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964539|Rs.million|A|31-03-2020|3446481.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964539|Rs.million|A|31-03-2021|3477524.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|834|Chhattisgarh||115964539|Rs.million|A|31-03-2022|4064158.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|771|Goa||115964535|Rs.million|A|31-03-2014|359211.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|771|Goa||115964535|Rs.million|A|31-03-2015|478141.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|771|Goa||115964535|Rs.million|A|31-03-2016|550538.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|771|Goa||115964535|Rs.million|A|31-03-2017|629763.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|771|Goa||115964535|Rs.million|A|31-03-2018|693520.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|771|Goa||115964535|Rs.million|A|31-03-2019|718533.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|771|Goa||115964535|Rs.million|A|31-03-2020|750320.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|771|Goa||115964535|Rs.million|A|31-03-2021|757054.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|771|Goa||115964535|Rs.million|A|31-03-2022|826037.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|1060|Goa, Daman & Diu||||A||
+2406064|GDP at market prices: Base year 2011-12: At current prices|688|Gujarat||115964531|Rs.million|A|31-03-2014|8076231.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|688|Gujarat||115964531|Rs.million|A|31-03-2015|9217731.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|688|Gujarat||115964531|Rs.million|A|31-03-2016|10290097.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|688|Gujarat||115964531|Rs.million|A|31-03-2017|11671555.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|688|Gujarat||115964531|Rs.million|A|31-03-2018|13290947.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|688|Gujarat||115964531|Rs.million|A|31-03-2019|14921557.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|688|Gujarat||115964531|Rs.million|A|31-03-2020|16171432.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|688|Gujarat||115964531|Rs.million|A|31-03-2021|16161063.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|688|Gujarat||115964531|Rs.million|A|31-03-2022|19370664.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|179|Haryana||115964499|Rs.million|A|31-03-2014|3992681.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|179|Haryana||115964499|Rs.million|A|31-03-2015|4371447.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|179|Haryana||115964499|Rs.million|A|31-03-2016|4955041.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|179|Haryana||115964499|Rs.million|A|31-03-2017|5614241.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|179|Haryana||115964499|Rs.million|A|31-03-2018|6388320.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|179|Haryana||115964499|Rs.million|A|31-03-2019|6989397.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|179|Haryana||115964499|Rs.million|A|31-03-2020|7321945.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|179|Haryana||115964499|Rs.million|A|31-03-2021|7418500.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|179|Haryana||115964499|Rs.million|A|31-03-2022|8706645.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964495|Rs.million|A|31-03-2014|947641.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964495|Rs.million|A|31-03-2015|1037723.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964495|Rs.million|A|31-03-2016|1142394.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964495|Rs.million|A|31-03-2017|1256336.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964495|Rs.million|A|31-03-2018|1385510.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964495|Rs.million|A|31-03-2019|1483832.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964495|Rs.million|A|31-03-2020|1591640.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964495|Rs.million|A|31-03-2021|1552512.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|132|Himachal Pradesh||115964495|Rs.million|A|31-03-2022|1762694.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964493|Rs.million|A|31-03-2014|956206.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964493|Rs.million|A|31-03-2015|983667.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964493|Rs.million|A|31-03-2016|1171679.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964493|Rs.million|A|31-03-2017|1248480.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964493|Rs.million|A|31-03-2018|1397088.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964493|Rs.million|A|31-03-2019|1598594.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964493|Rs.million|A|31-03-2020|1641032.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964493|Rs.million|A|31-03-2021|1676517.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|101|Jammu & Kashmir||115964493|Rs.million|A|31-03-2022|1999174.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|121|Jammu & Kashmir||185762894|Rs.million|A|31-03-2014|956206.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|121|Jammu & Kashmir||185762894|Rs.million|A|31-03-2015|983667.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|121|Jammu & Kashmir||185762894|Rs.million|A|31-03-2016|1171679.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|121|Jammu & Kashmir||185762894|Rs.million|A|31-03-2017|1248480.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|121|Jammu & Kashmir||185762894|Rs.million|A|31-03-2018|1397088.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|121|Jammu & Kashmir||185762894|Rs.million|A|31-03-2019|1598594.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|121|Jammu & Kashmir||185762894|Rs.million|A|31-03-2020|1641032.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|121|Jammu & Kashmir||185762894|Rs.million|A|31-03-2021|1676517.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|121|Jammu & Kashmir||185762894|Rs.million|A|31-03-2022|1999174.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|639|Jharkhand||115964527|Rs.million|A|31-03-2014|1885667.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|639|Jharkhand||115964527|Rs.million|A|31-03-2015|2185251.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|639|Jharkhand||115964527|Rs.million|A|31-03-2016|2066128.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|639|Jharkhand||115964527|Rs.million|A|31-03-2017|2362497.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|639|Jharkhand||115964527|Rs.million|A|31-03-2018|2698161.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|639|Jharkhand||115964527|Rs.million|A|31-03-2019|3056952.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|639|Jharkhand||115964527|Rs.million|A|31-03-2020|3103053.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|639|Jharkhand||115964527|Rs.million|A|31-03-2021|2966640.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|639|Jharkhand||115964527|Rs.million|A|31-03-2022|3588625.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|897|Karnataka||115964545|Rs.million|A|31-03-2014|8166661.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|897|Karnataka||115964545|Rs.million|A|31-03-2015|9139230.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|897|Karnataka||115964545|Rs.million|A|31-03-2016|10451681.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|897|Karnataka||115964545|Rs.million|A|31-03-2017|12076077.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|897|Karnataka||115964545|Rs.million|A|31-03-2018|13332400.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|897|Karnataka||115964545|Rs.million|A|31-03-2019|14793914.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|897|Karnataka||115964545|Rs.million|A|31-03-2020|16111338.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|897|Karnataka||115964545|Rs.million|A|31-03-2021|16250729.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|897|Karnataka||115964545|Rs.million|A|31-03-2022|19627254.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|937|Kerala||115964547|Rs.million|A|31-03-2014|4650412.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|937|Kerala||115964547|Rs.million|A|31-03-2015|5125640.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|937|Kerala||115964547|Rs.million|A|31-03-2016|5619936.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|937|Kerala||115964547|Rs.million|A|31-03-2017|6348864.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|937|Kerala||115964547|Rs.million|A|31-03-2018|7015882.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|937|Kerala||115964547|Rs.million|A|31-03-2019|7882855.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|937|Kerala||115964547|Rs.million|A|31-03-2020|8129346.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|937|Kerala||115964547|Rs.million|A|31-03-2021|7717238.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|937|Kerala||115964547|Rs.million|A|31-03-2022|9324699.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964537|Rs.million|A|31-03-2014|4394834.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964537|Rs.million|A|31-03-2015|4799390.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964537|Rs.million|A|31-03-2016|5410675.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964537|Rs.million|A|31-03-2017|6498228.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964537|Rs.million|A|31-03-2018|7262839.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964537|Rs.million|A|31-03-2019|8298047.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964537|Rs.million|A|31-03-2020|9278550.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964537|Rs.million|A|31-03-2021|9616429.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|774|Madhya Pradesh||115964537|Rs.million|A|31-03-2022|11361371.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|775|Madhya Pradesh||||A||
+2406064|GDP at market prices: Base year 2011-12: At current prices|723|Maharashtra||115964533|Rs.million|A|31-03-2014|16496466.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|723|Maharashtra||115964533|Rs.million|A|31-03-2015|17791379.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|723|Maharashtra||115964533|Rs.million|A|31-03-2016|19662245.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|723|Maharashtra||115964533|Rs.million|A|31-03-2017|21981851.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|723|Maharashtra||115964533|Rs.million|A|31-03-2018|23527815.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|723|Maharashtra||115964533|Rs.million|A|31-03-2019|25288543.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|723|Maharashtra||115964533|Rs.million|A|31-03-2020|26573709.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|723|Maharashtra||115964533|Rs.million|A|31-03-2021|26275419.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|723|Maharashtra||115964533|Rs.million|A|31-03-2022|31080218.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|579|Manipur||115964521|Rs.million|A|31-03-2014|161820.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|579|Manipur||115964521|Rs.million|A|31-03-2015|181290.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|579|Manipur||115964521|Rs.million|A|31-03-2016|195306.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|579|Manipur||115964521|Rs.million|A|31-03-2017|212938.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|579|Manipur||115964521|Rs.million|A|31-03-2018|257892.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|579|Manipur||115964521|Rs.million|A|31-03-2019|273880.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|579|Manipur||115964521|Rs.million|A|31-03-2020|298130.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|579|Manipur||115964521|Rs.million|A|31-03-2021|297760.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|579|Manipur||115964521|Rs.million|A|31-03-2022|365944.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|549|Meghalaya||115964517|Rs.million|A|31-03-2014|229382.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|549|Meghalaya||115964517|Rs.million|A|31-03-2015|232345.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|549|Meghalaya||115964517|Rs.million|A|31-03-2016|251173.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|549|Meghalaya||115964517|Rs.million|A|31-03-2017|274386.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|549|Meghalaya||115964517|Rs.million|A|31-03-2018|295083.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|549|Meghalaya||115964517|Rs.million|A|31-03-2019|321758.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|549|Meghalaya||115964517|Rs.million|A|31-03-2020|347704.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|549|Meghalaya||115964517|Rs.million|A|31-03-2021|337761.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|549|Meghalaya||115964517|Rs.million|A|31-03-2022|387847.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|1080|Meghalaya||||A||
+2406064|GDP at market prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964505|Rs.million|A|31-03-2014|4439598.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964505|Rs.million|A|31-03-2015|4948030.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964505|Rs.million|A|31-03-2016|5508037.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964505|Rs.million|A|31-03-2017|6160850.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964505|Rs.million|A|31-03-2018|6779000.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964505|Rs.million|A|31-03-2019|7383894.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964505|Rs.million|A|31-03-2020|7929112.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964505|Rs.million|A|31-03-2021|7634354.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|358|NCT of Delhi||115964505|Rs.million|A|31-03-2022|9046420.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|447|Odisha||115964513|Rs.million|A|31-03-2014|2964753.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|447|Odisha||115964513|Rs.million|A|31-03-2015|3142499.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|447|Odisha||115964513|Rs.million|A|31-03-2016|3285495.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|447|Odisha||115964513|Rs.million|A|31-03-2017|3928036.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|447|Odisha||115964513|Rs.million|A|31-03-2018|4403953.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|447|Odisha||115964513|Rs.million|A|31-03-2019|4986112.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|447|Odisha||115964513|Rs.million|A|31-03-2020|5375017.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|447|Odisha||115964513|Rs.million|A|31-03-2021|5401504.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|447|Odisha||115964513|Rs.million|A|31-03-2022|6708812.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|1004|Puducherry||115964551|Rs.million|A|31-03-2014|218701.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|1004|Puducherry||115964551|Rs.million|A|31-03-2015|225739.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|1004|Puducherry||115964551|Rs.million|A|31-03-2016|266165.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|1004|Puducherry||115964551|Rs.million|A|31-03-2017|295726.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|1004|Puducherry||115964551|Rs.million|A|31-03-2018|321288.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|1004|Puducherry||115964551|Rs.million|A|31-03-2019|341707.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|1004|Puducherry||115964551|Rs.million|A|31-03-2020|369987.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|1004|Puducherry||115964551|Rs.million|A|31-03-2021|361158.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|1004|Puducherry||115964551|Rs.million|A|31-03-2022|442378.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|147|Punjab||115964497|Rs.million|A|31-03-2014|3321469.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|147|Punjab||115964497|Rs.million|A|31-03-2015|3551018.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|147|Punjab||115964497|Rs.million|A|31-03-2016|3900874.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|147|Punjab||115964497|Rs.million|A|31-03-2017|4269881.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|147|Punjab||115964497|Rs.million|A|31-03-2018|4710136.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|147|Punjab||115964497|Rs.million|A|31-03-2019|5125096.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|147|Punjab||115964497|Rs.million|A|31-03-2020|5370310.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|147|Punjab||115964497|Rs.million|A|31-03-2021|5408526.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|147|Punjab||115964497|Rs.million|A|31-03-2022|6142267.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|319|Rajasthan||115964503|Rs.million|A|31-03-2014|5510310.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|319|Rajasthan||115964503|Rs.million|A|31-03-2015|6156415.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|319|Rajasthan||115964503|Rs.million|A|31-03-2016|6814822.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|319|Rajasthan||115964503|Rs.million|A|31-03-2017|7605872.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|319|Rajasthan||115964503|Rs.million|A|31-03-2018|8325292.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|319|Rajasthan||115964503|Rs.million|A|31-03-2019|9115194.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|319|Rajasthan||115964503|Rs.million|A|31-03-2020|9986787.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|319|Rajasthan||115964503|Rs.million|A|31-03-2021|10194420.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|319|Rajasthan||115964503|Rs.million|A|31-03-2022|12181934.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964549|Rs.million|A|31-03-2014|9685304.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964549|Rs.million|A|31-03-2015|10726779.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964549|Rs.million|A|31-03-2016|11765000.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964549|Rs.million|A|31-03-2017|13026385.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964549|Rs.million|A|31-03-2018|14650509.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964549|Rs.million|A|31-03-2019|16302091.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964549|Rs.million|A|31-03-2020|17431439.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964549|Rs.million|A|31-03-2021|17880743.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|958|Tamil Nadu||115964549|Rs.million|A|31-03-2022|20712861.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|868|Telangana||115964541|Rs.million|A|31-03-2014|4515804.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|868|Telangana||115964541|Rs.million|A|31-03-2015|5058487.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|868|Telangana||115964541|Rs.million|A|31-03-2016|5779020.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|868|Telangana||115964541|Rs.million|A|31-03-2017|6583253.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|868|Telangana||115964541|Rs.million|A|31-03-2018|7500502.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|868|Telangana||115964541|Rs.million|A|31-03-2019|8574271.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|868|Telangana||115964541|Rs.million|A|31-03-2020|9500904.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|868|Telangana||115964541|Rs.million|A|31-03-2021|9428143.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|868|Telangana||115964541|Rs.million|A|31-03-2022|11289072.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|561|Tripura||126169898|Rs.million|A|31-03-2014|255928.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|561|Tripura||126169898|Rs.million|A|31-03-2015|295334.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|561|Tripura||126169898|Rs.million|A|31-03-2016|359377.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|561|Tripura||126169898|Rs.million|A|31-03-2017|394794.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|561|Tripura||126169898|Rs.million|A|31-03-2018|437158.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|561|Tripura||126169898|Rs.million|A|31-03-2019|498233.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|561|Tripura||126169898|Rs.million|A|31-03-2020|541511.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|561|Tripura||126169898|Rs.million|A|31-03-2021|535041.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|561|Tripura||126169898|Rs.million|A|31-03-2022|625504.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964501|Rs.million|A|31-03-2014|9403564.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964501|Rs.million|A|31-03-2015|10117896.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964501|Rs.million|A|31-03-2016|11378079.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964501|Rs.million|A|31-03-2017|12887002.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964501|Rs.million|A|31-03-2018|14399255.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964501|Rs.million|A|31-03-2019|15821800.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964501|Rs.million|A|31-03-2020|17000618.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964501|Rs.million|A|31-03-2021|16453167.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|215|Uttar Pradesh||115964501|Rs.million|A|31-03-2022|19745315.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|216|Uttar Pradesh||||A||
+2406064|GDP at market prices: Base year 2011-12: At current prices|369|Uttarakhand||115964507|Rs.million|A|31-03-2014|1490743.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|369|Uttarakhand||115964507|Rs.million|A|31-03-2015|1614389.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|369|Uttarakhand||115964507|Rs.million|A|31-03-2016|1771630.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|369|Uttarakhand||115964507|Rs.million|A|31-03-2017|1951248.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|369|Uttarakhand||115964507|Rs.million|A|31-03-2018|2202221.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|369|Uttarakhand||115964507|Rs.million|A|31-03-2019|2303136.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|369|Uttarakhand||115964507|Rs.million|A|31-03-2020|2392465.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|369|Uttarakhand||115964507|Rs.million|A|31-03-2021|2368600.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|369|Uttarakhand||115964507|Rs.million|A|31-03-2022|2721594.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|488|West Bengal||133138780|Rs.million|A|31-03-2014|6768487.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|488|West Bengal||133138780|Rs.million|A|31-03-2015|7180816.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|488|West Bengal||133138780|Rs.million|A|31-03-2016|7972999.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|488|West Bengal||133138780|Rs.million|A|31-03-2017|8725272.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|488|West Bengal||133138780|Rs.million|A|31-03-2018|9747000.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|488|West Bengal||133138780|Rs.million|A|31-03-2019|11020536.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|488|West Bengal||133138780|Rs.million|A|31-03-2020|11790971.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|488|West Bengal||133138780|Rs.million|A|31-03-2021|11558206.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|488|West Bengal||133138780|Rs.million|A|31-03-2022|13639258.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964529|Rs.million|A|31-03-2014|50226.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964529|Rs.million|A|31-03-2015|54772.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964529|Rs.million|A|31-03-2016|60317.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964529|Rs.million|A|31-03-2017|68358.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964529|Rs.million|A|31-03-2018|78904.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964529|Rs.million|A|31-03-2019|90031.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964529|Rs.million|A|31-03-2020|97650.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964529|Rs.million|A|31-03-2021|93104.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|679|Andaman & Nicobar Islands||115964529|Rs.million|A|31-03-2022|103705.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964525|Rs.million|A|31-03-2014|145810.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964525|Rs.million|A|31-03-2015|179594.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964525|Rs.million|A|31-03-2016|185091.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964525|Rs.million|A|31-03-2017|199021.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964525|Rs.million|A|31-03-2018|224747.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964525|Rs.million|A|31-03-2019|253348.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964525|Rs.million|A|31-03-2020|300236.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964525|Rs.million|A|31-03-2021|305478.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|608|Arunachal Pradesh||115964525|Rs.million|A|31-03-2022|351235.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|1300|Dadra & Nagar Haveli and Daman & Diu||||A||
+2406064|GDP at market prices: Base year 2011-12: At current prices|860|Daman & Diu||||A||
+2406064|GDP at market prices: Base year 2011-12: At current prices|863|Dadra & Nagar Haveli||||A||
+2406064|GDP at market prices: Base year 2011-12: At current prices|864|Lakshadweep||||A||
+2406064|GDP at market prices: Base year 2011-12: At current prices|592|Nagaland||115964523|Rs.million|A|31-03-2014|166117.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|592|Nagaland||115964523|Rs.million|A|31-03-2015|184006.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|592|Nagaland||115964523|Rs.million|A|31-03-2016|195239.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|592|Nagaland||115964523|Rs.million|A|31-03-2017|217224.5
+2406064|GDP at market prices: Base year 2011-12: At current prices|592|Nagaland||115964523|Rs.million|A|31-03-2018|243929.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|592|Nagaland||115964523|Rs.million|A|31-03-2019|265274.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|592|Nagaland||115964523|Rs.million|A|31-03-2020|297158.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|592|Nagaland||115964523|Rs.million|A|31-03-2021|298316.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|592|Nagaland||115964523|Rs.million|A|31-03-2022|319125.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|568|Mizoram||115964519|Rs.million|A|31-03-2014|102933.7
+2406064|GDP at market prices: Base year 2011-12: At current prices|568|Mizoram||115964519|Rs.million|A|31-03-2015|135094.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|568|Mizoram||115964519|Rs.million|A|31-03-2016|151388.6
+2406064|GDP at market prices: Base year 2011-12: At current prices|568|Mizoram||115964519|Rs.million|A|31-03-2017|171919.1
+2406064|GDP at market prices: Base year 2011-12: At current prices|568|Mizoram||115964519|Rs.million|A|31-03-2018|193853.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|568|Mizoram||115964519|Rs.million|A|31-03-2019|219120.8
+2406064|GDP at market prices: Base year 2011-12: At current prices|568|Mizoram||115964519|Rs.million|A|31-03-2020|249896.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|568|Mizoram||115964519|Rs.million|A|31-03-2021|239229.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|568|Mizoram||115964519|Rs.million|A|31-03-2022|278235.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|634|Sikkim||126169900|Rs.million|A|31-03-2014|138619.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|634|Sikkim||126169900|Rs.million|A|31-03-2015|154067.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|634|Sikkim||126169900|Rs.million|A|31-03-2016|180339.4
+2406064|GDP at market prices: Base year 2011-12: At current prices|634|Sikkim||126169900|Rs.million|A|31-03-2017|206871.9
+2406064|GDP at market prices: Base year 2011-12: At current prices|634|Sikkim||126169900|Rs.million|A|31-03-2018|259708.2
+2406064|GDP at market prices: Base year 2011-12: At current prices|634|Sikkim||126169900|Rs.million|A|31-03-2019|284024.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|634|Sikkim||126169900|Rs.million|A|31-03-2020|314410.0
+2406064|GDP at market prices: Base year 2011-12: At current prices|634|Sikkim||126169900|Rs.million|A|31-03-2021|330178.3
+2406064|GDP at market prices: Base year 2011-12: At current prices|634|Sikkim||126169900|Rs.million|A|31-03-2022|375574.0
