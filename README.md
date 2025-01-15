@@ -13,6 +13,7 @@ This repository contains the scripts, data, and documentation for my undergradua
 - **LaTeX Files**:
   - `sl_bsc_thesis.tex`: LaTeX file for for thesis slideshow.
   - `ref.bib`: Bibliography file for citations.
+  - `sl_bsc_thesis.pdf`: Output file.
 - **Data Files**:
   - `asi_msme_data_f.csv`: # of MSMEs from ASI.
   - `controls.txt`, `demography_controls.csv`: Contains data on control variables.
